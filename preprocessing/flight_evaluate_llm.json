@@ -1,0 +1,2470 @@
+{
+  "0": {
+    "questionId": 0,
+    "true_answers": [
+      "12/01/2011 08:23 PM"
+    ],
+    "predicted_answer": [
+      "Dec 01 - 8:01pm",
+      "08:23 PM  Thu 01-Dec-2011",
+      "12/01/2011 08:23 PM",
+      "12/1/11 8:23 PM (-05:00)",
+      "8:01pDec 1",
+      "12/1/2011 8:23PM EST",
+      "2011-12-01 8:23 PM",
+      "2011-12-01 08:23PM EST",
+      "8:23 PM, Dec 01"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "1": {
+    "questionId": 1,
+    "true_answers": [
+      "12/01/2011 06:55 PM"
+    ],
+    "predicted_answer": [
+      "06:55 PM  Thu 01-Dec-2011",
+      "12/01/2011 06:55 PM",
+      "12/1/11 6:56 PM (-06:00)",
+      "6:56 PM, Dec 01",
+      "2011-12-01 06:56PM CST",
+      "12/1/2011 6:56PM CST",
+      "6:40pDec 1",
+      "2011-12-01 6:55 PM",
+      "Dec 01 - 6:40pm"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  "2": {
+    "questionId": 2,
+    "true_answers": [
+      "12/01/2011 10:10 AM"
+    ],
+    "predicted_answer": [
+      "12/1/2011 10:11AM CST",
+      "10:11 AM, Dec 01",
+      "2011-12-01 10:11 AM",
+      "2011-12-01 10:10AM CST",
+      "2011-12-01 10:10 AM",
+      "10:10 AM  Thu 01-Dec-2011",
+      "12/1/11 10:11 AM (-06:00)",
+      "12/01/2011 10:10 AM",
+      "9:59aDec 1",
+      "Dec 01 - 9:59am"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "3": {
+    "questionId": 3,
+    "true_answers": [
+      "12/01/2011 08:51 AM"
+    ],
+    "predicted_answer": [
+      "12/1/2011 8:52AM EST",
+      "Dec 01 - 8:31am",
+      "08:51 AM  Thu 01-Dec-2011",
+      "12/01/2011 08:51 AM",
+      "8:52 AM, Dec 01",
+      "2011-12-01 8:51 AM",
+      "12/1/11 8:52 AM (-05:00)",
+      "8:31aDec 1",
+      "2011-12-01 08:52 AM",
+      "2011-12-01 08:51AM EST"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "4": {
+    "questionId": 4,
+    "true_answers": [
+      "12/01/2011 12:41 PM"
+    ],
+    "predicted_answer": [
+      "12/01/2011 12:41 PM",
+      "Dec 01 - 12:10pm",
+      "12:10pDec 1",
+      "12/1/2011 12:42PM CST",
+      "12:42 PM, Dec 01",
+      "12/1/11 12:42 PM (-06:00)",
+      "12:41 PM  Thu 01-Dec-2011",
+      "2011-12-01 12:41 PM",
+      "2011-12-01 12:42PM CST"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "5": {
+    "questionId": 5,
+    "true_answers": [
+      "12/01/2011 11:05 AM"
+    ],
+    "predicted_answer": [
+      "10:46aDec 1",
+      "11:06 AM, Dec 01",
+      "2011-12-01 11:05 AM",
+      "2011-12-01 11:05AM CST",
+      "11:05 AM  Thu 01-Dec-2011",
+      "12/01/2011 11:05 AM",
+      "Dec 01 - 10:46am",
+      "12/1/2011 11:06AM CST",
+      "2011-12-01 11:06 AM",
+      "12/1/11 11:06 AM (-06:00)"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "6": {
+    "questionId": 6,
+    "true_answers": [
+      "12/01/2011 02:44 PM"
+    ],
+    "predicted_answer": [
+      "12/1/2011 2:44PM EST",
+      "02:44 PM  Thu 01-Dec-2011",
+      "2:32pDec 1",
+      "2011-12-01 2:44 PM",
+      "12/01/2011 02:44 PM",
+      "2011-12-01 02:44PM EST",
+      "12/1/11 2:44 PM (-05:00)",
+      "Dec 01 - 2:32pm",
+      "2:44 PM, Dec 01"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "7": {
+    "questionId": 7,
+    "true_answers": [
+      "12/01/2011 10:18 AM"
+    ],
+    "predicted_answer": [
+      "12/1/11 10:19 AM (-05:00)",
+      "10:19 AM, Dec 01",
+      "12/1/2011 10:19AM EST",
+      "10:10aDec 1",
+      "2011-12-01 10:18 AM",
+      "2011-12-01 10:19AM EST",
+      "2011-12-01 10:19 AM",
+      "12/01/2011 10:18 AM",
+      "Dec 01 - 10:10am",
+      "10:18 AM  Thu 01-Dec-2011"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "8": {
+    "questionId": 8,
+    "true_answers": [
+      "12/01/2011 01:19 PM"
+    ],
+    "predicted_answer": [
+      "1:20 PM, Dec 01",
+      "2011-12-01 1:19 PM",
+      "1:06pDec 1",
+      "2011-12-01 01:19PM CST",
+      "12/1/11 1:20 PM (-06:00)",
+      "12/1/2011 1:20PM CST",
+      "2011-12-01 01:20 PM",
+      "Dec 01 - 1:06pm",
+      "12/01/2011 01:19 PM",
+      "01:19 PM  Thu 01-Dec-2011"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "9": {
+    "questionId": 9,
+    "true_answers": [
+      "12/01/2011 07:58 PM"
+    ],
+    "predicted_answer": [
+      "Dec 01 - 7:45pm",
+      "12/01/2011 07:58 PM",
+      "2011-12-01 7:58 PM",
+      "7:45pDec 1",
+      "12/1/11 7:59 PM (-06:00)",
+      "12/1/2011 7:59PM CST",
+      "7:59 PM, Dec 01",
+      "2011-12-01 07:59PM CST"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "10": {
+    "questionId": 10,
+    "true_answers": [
+      "12/01/2011 07:58 PM"
+    ],
+    "predicted_answer": [
+      "Dec 01 - 7:45pm",
+      "12/01/2011 07:58 PM",
+      "2011-12-01 7:58 PM",
+      "7:45pDec 1",
+      "12/1/11 7:59 PM (-06:00)",
+      "12/1/2011 7:59PM CST",
+      "7:59 PM, Dec 01",
+      "2011-12-01 07:59PM CST"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "11": {
+    "questionId": 11,
+    "true_answers": [
+      "12/01/2011 12:10 PM"
+    ],
+    "predicted_answer": [
+      "12/1/11 12:11 PM (-05:00)",
+      "2011-12-01 12:10 PM",
+      "12:01pDec 1",
+      "12/01/2011 12:10 PM",
+      "12:11 PM, Dec 01",
+      "12/1/2011 12:11PM EST",
+      "12:10 PM  Thu 01-Dec-2011",
+      "2011-12-01 12:10PM EST",
+      "Dec 01 - 12:01pm"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "12": {
+    "questionId": 12,
+    "true_answers": [
+      "12/01/2011 03:36 PM"
+    ],
+    "predicted_answer": [
+      "3:38 PM, Dec 01",
+      "3:09pDec 1",
+      "03:36 PM  Thu 01-Dec-2011",
+      "2011-12-01 3:36 PM",
+      "Dec 01 - 3:09pm",
+      "12/01/2011 03:36 PM",
+      "2011-12-01 03:36PM EST",
+      "12/1/11 3:38 PM (-05:00)"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "13": {
+    "questionId": 13,
+    "true_answers": [
+      "12/01/2011 06:57 AM"
+    ],
+    "predicted_answer": [
+      "6:58 AM, Dec 01",
+      "2011-12-01 6:57 AM",
+      "Dec 01 - 6:41am",
+      "12/1/2011 6:58AM EST",
+      "12/1/11 6:58 AM (-05:00)",
+      "2011-12-01 06:58 AM",
+      "12/01/2011 06:57 AM",
+      "6:41aDec 1",
+      "2011-12-01 06:57AM EST",
+      "06:57 AM  Thu 01-Dec-2011"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "14": {
+    "questionId": 14,
+    "true_answers": [
+      "12/01/2011 12:12 PM"
+    ],
+    "predicted_answer": [
+      "Dec 01 - 11:54am",
+      "11:54aDec 1",
+      "12/1/2011 12:13PM CST",
+      "12/01/2011 12:12 PM",
+      "12:13 PM, Dec 01",
+      "12/1/11 12:13 PM (-06:00)",
+      "2011-12-01 12:12 PM",
+      "12:12 PM  Thu 01-Dec-2011",
+      "2011-12-01 12:13PM CST"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "15": {
+    "questionId": 15,
+    "true_answers": [
+      "12/01/2011 07:22 AM"
+    ],
+    "predicted_answer": [
+      "12/01/2011 07:22 AM",
+      "12/1/11 7:22 AM (-07:00)",
+      "2011-12-01 7:22 AM",
+      "7:10aDec 1",
+      "2011-12-01 07:23AM MST",
+      "2011-12-01 07:23 AM",
+      "Dec 01 - 7:10am",
+      "07:22 AM  Thu 01-Dec-2011",
+      "12/1/2011 7:23AM MST",
+      "7:23 AM, Dec 01"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "16": {
+    "questionId": 16,
+    "true_answers": [
+      "12/01/2011 12:13 PM"
+    ],
+    "predicted_answer": [
+      "12/01/2011 12:13 PM",
+      "12/1/2011 12:14PM CST",
+      "12:14 PMDec 01",
+      "2011-12-01 12:13 PM",
+      "12/1/11 12:14 PM (-06:00)",
+      "11:47aDec 1",
+      "Dec 01 - 11:47am"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "17": {
+    "questionId": 17,
+    "true_answers": [
+      "12/01/2011 04:29 PM"
+    ],
+    "predicted_answer": [
+      "Dec 01 - 4:16pm",
+      "2011-12-01 4:29 PM",
+      "12/1/11 4:29 PM (-06:00)",
+      "4:30 PM, Dec 01",
+      "04:29 PM  Thu 01-Dec-2011",
+      "12/1/2011 4:30PM CST",
+      "4:16pDec 1",
+      "2011-12-01 04:29PM CST",
+      "12/01/2011 04:29 PM"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "18": {
+    "questionId": 18,
+    "true_answers": [
+      "12/01/2011 08:04 AM"
+    ],
+    "predicted_answer": [
+      "2011-12-01 8:04 AM",
+      "12/01/2011 08:04 AM",
+      "12/1/2011 8:04AM EST",
+      "7:28aDec 1",
+      "8:04 AM, Dec 01",
+      "08:04 AM  Thu 01-Dec-2011",
+      "2011-12-01 08:04AM EST",
+      "Dec 01 - 7:28am",
+      "12/1/11 8:04 AM (-05:00)"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "19": {
+    "questionId": 19,
+    "true_answers": [
+      "12/01/2011 08:39 PM"
+    ],
+    "predicted_answer": [
+      "12/01/2011 08:39 PM",
+      "2011-12-01 08:39 PM",
+      "2011-12-01 8:39 PM",
+      "8:40 PMDec 01",
+      "Dec 01 - 8:30pm",
+      "12/1/11 8:40 PM (-07:00)",
+      "8:30pDec 1",
+      "2011-12-01 08:40PM MST"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  "20": {
+    "questionId": 20,
+    "true_answers": [
+      "12/01/2011 07:16 AM"
+    ],
+    "predicted_answer": [
+      "7:16 AM, Dec 01",
+      "07:16 AM  Thu 01-Dec-2011",
+      "12/1/11 7:16 AM (-06:00)",
+      "12/01/2011 07:16 AM",
+      "12/1/2011 7:16AM CST",
+      "2011-12-01 07:16AM CST",
+      "7:02aDec 1",
+      "Dec 01 - 7:02am",
+      "2011-12-01 7:16 AM"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  "21": {
+    "questionId": 21,
+    "true_answers": [
+      "12/01/2011 06:56 AM"
+    ],
+    "predicted_answer": [
+      "12/1/11 6:57 AM (-06:00)",
+      "2011-12-01 6:56 AM",
+      "2011-12-01 06:56AM CST",
+      "12/01/2011 06:56 AM",
+      "Dec 01 - 5:59am",
+      "06:56 AM  Thu 01-Dec-2011",
+      "12/1/2011 6:57AM CST",
+      "6:57 AM, Dec 01",
+      "5:59aDec 1"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "22": {
+    "questionId": 22,
+    "true_answers": [
+      "12/01/2011 11:40 AM"
+    ],
+    "predicted_answer": [
+      "11:41 AMDec 01",
+      "12/01/2011 11:40 AM",
+      "12/1/2011 11:41AM PST",
+      "Dec 01 - 11:20am",
+      "12/1/11 11:41 AM (-08:00)",
+      "11:20aDec 1",
+      "2011-12-01 11:40 AM"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  "23": {
+    "questionId": 23,
+    "true_answers": [
+      "12/01/2011 06:54 AM"
+    ],
+    "predicted_answer": [
+      "2011-12-01 06:54 AM",
+      "12/01/2011 06:54 AM",
+      "Dec 01 - 6:40am",
+      "6:54 AM, Dec 01",
+      "2011-12-01 06:54AM EST",
+      "2011-12-01 6:54 AM",
+      "6:40aDec 1",
+      "06:54 AM  Thu 01-Dec-2011",
+      "12/1/11 6:54 AM (-05:00)"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "24": {
+    "questionId": 24,
+    "true_answers": [
+      "12/01/2011 07:39 AM"
+    ],
+    "predicted_answer": [
+      "7:40 AM, Dec 01",
+      "07:39 AM  Thu 01-Dec-2011",
+      "12/01/2011 07:39 AM",
+      "2011-12-01 07:39AM CST",
+      "2011-12-01 7:39 AM",
+      "12/1/2011 7:40AM CST",
+      "Dec 01 - 7:22am",
+      "12/1/11 7:39 AM (-06:00)",
+      "2011-12-01 07:40 AM",
+      "7:22aDec 1"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "25": {
+    "questionId": 25,
+    "true_answers": [
+      "12/01/2011 02:04 PM"
+    ],
+    "predicted_answer": [
+      "2011-12-01 02:04 PM",
+      "2:04 PM, Dec 01",
+      "12/01/2011 02:04 PM",
+      "12/1/2011 2:04PM CST",
+      "2011-12-01 2:04 PM",
+      "2011-12-01 02:04PM CST",
+      "02:04 PM  Thu 01-Dec-2011",
+      "1:48pDec 1",
+      "Dec 01 - 1:48pm",
+      "12/1/11 2:03 PM (-06:00)"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  "26": {
+    "questionId": 26,
+    "true_answers": [
+      "12/01/2011 07:21 AM"
+    ],
+    "predicted_answer": [
+      "2011-12-01 07:21AM CST",
+      "7:08aDec 1",
+      "12/01/2011 07:21 AM",
+      "7:22 AM, Dec 01",
+      "2011-12-01 07:22 AM",
+      "12/1/11 7:22 AM (-06:00)",
+      "07:21 AM  Thu 01-Dec-2011",
+      "12/1/2011 7:22AM CST",
+      "2011-12-01 7:21 AM",
+      "Dec 01 - 7:08am"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "27": {
+    "questionId": 27,
+    "true_answers": [
+      "12/01/2011 07:39 AM"
+    ],
+    "predicted_answer": [
+      "7:40 AM, Dec 01",
+      "07:39 AM  Thu 01-Dec-2011",
+      "12/1/11 7:40 AM (-05:00)",
+      "12/01/2011 07:39 AM",
+      "2011-12-01 7:39 AM",
+      "7:14aDec 1",
+      "2011-12-01 07:39AM EST",
+      "Dec 01 - 7:14am",
+      "2011-12-01 07:40 AM",
+      "12/1/2011 7:40AM EST"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "28": {
+    "questionId": 28,
+    "true_answers": [
+      "12/01/2011 08:56 AM"
+    ],
+    "predicted_answer": [
+      "8:32aDec 1",
+      "2011-12-01 8:56 AM",
+      "12/01/2011 08:56 AM",
+      "Dec 01 - 8:32am",
+      "12/1/11 8:55 AM (-05:00)",
+      "2011-12-01 08:56 AM",
+      "8:56 AMDec 01"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "29": {
+    "questionId": 29,
+    "true_answers": [
+      "12/01/2011 07:31 AM"
+    ],
+    "predicted_answer": [
+      "7:05aDec 1",
+      "2011-12-01 7:31 AM",
+      "07:31 AM  Thu 01-Dec-2011",
+      "12/01/2011 07:31 AM",
+      "12/1/11 7:32 AM (-08:00)",
+      "2011-12-01 07:32AM PST",
+      "Dec 01 - 7:05am",
+      "7:32 AM, Dec 01",
+      "12/1/2011 7:32AM PST"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "30": {
+    "questionId": 30,
+    "true_answers": [
+      "12/01/2011 07:22 AM"
+    ],
+    "predicted_answer": [
+      "12/01/2011 07:22 AM",
+      "6:56aDec 1",
+      "07:22 AM  Thu 01-Dec-2011",
+      "Dec 01 - 6:56am",
+      "12/1/2011 7:23AM EST",
+      "2011-12-01 7:22 AM",
+      "2011-12-01 07:22AM EST",
+      "2011-12-01 07:23 AM",
+      "12/1/11 7:23 AM (-05:00)",
+      "7:23 AM, Dec 01"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "31": {
+    "questionId": 31,
+    "true_answers": [
+      "12/01/2011 04:12 PM"
+    ],
+    "predicted_answer": [
+      "4:12 PM, Dec 01",
+      "2011-12-01 4:12 PM",
+      "12/01/2011 04:12 PM",
+      "3:52pDec 1",
+      "04:12 PM  Thu 01-Dec-2011",
+      "2011-12-01 04:12PM CST",
+      "Dec 01 - 3:52pm",
+      "12/1/11 4:12 PM (-06:00)"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "32": {
+    "questionId": 32,
+    "true_answers": [
+      "12/01/2011 03:36 PM"
+    ],
+    "predicted_answer": [
+      "3:36 PMDec 01",
+      "2011-12-01 03:36 PM",
+      "2011-12-01 3:36 PM",
+      "12/01/2011 03:36 PM",
+      "2011-12-01 03:36PM EST",
+      "12/1/2011 3:36PM EST",
+      "3:27pDec 1"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "33": {
+    "questionId": 33,
+    "true_answers": [
+      "12/01/2011 07:25 AM"
+    ],
+    "predicted_answer": [
+      "7:04aDec 1",
+      "12/1/11 7:25 AM (-05:00)",
+      "12/01/2011 07:25 AM",
+      "12/1/2011 7:25AM EST",
+      "2011-12-01 7:25 AM",
+      "2011-12-01 07:25AM EST",
+      "7:25 AM, Dec 01",
+      "07:25 AM  Thu 01-Dec-2011",
+      "Dec 01 - 7:04am"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "34": {
+    "questionId": 34,
+    "true_answers": [
+      "12/01/2011 06:08 AM"
+    ],
+    "predicted_answer": [
+      "2011-12-01 6:08 AM",
+      "Dec 01 - 5:58am",
+      "2011-12-01 06:08AM CST",
+      "06:08 AM  Thu 01-Dec-2011",
+      "12/1/11 6:09 AM (-06:00)",
+      "2011-12-01 06:09 AM",
+      "5:58aDec 1",
+      "12/01/2011 06:08 AM",
+      "6:09 AM, Dec 01",
+      "12/1/2011 6:09AM CST"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "35": {
+    "questionId": 35,
+    "true_answers": [
+      "12/01/2011 12:11 PM"
+    ],
+    "predicted_answer": [
+      "12/1/11 12:12 PM (-05:00)",
+      "12:11 PM  Thu 01-Dec-2011",
+      "12:12 PM, Dec 01",
+      "2011-12-01 12:11 PM",
+      "12/1/2011 12:12PM EST",
+      "11:54aDec 1",
+      "2011-12-01 12:12PM EST",
+      "Dec 01 - 11:54am",
+      "12/01/2011 12:11 PM",
+      "2011-12-01 12:12 PM"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "36": {
+    "questionId": 36,
+    "true_answers": [
+      "12/01/2011 05:08 PM"
+    ],
+    "predicted_answer": [
+      "2011-12-01 05:08 PM",
+      "12/01/2011 05:08 PM",
+      "2011-12-01 05:08PM EST",
+      "12/1/2011 5:09PM EST",
+      "4:56pDec 1",
+      "2011-12-01 5:08 PM",
+      "5:09 PMDec 01",
+      "12/1/11 5:09 PM (-05:00)"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "37": {
+    "questionId": 37,
+    "true_answers": [
+      "12/01/2011 11:52 AM"
+    ],
+    "predicted_answer": [
+      "11:52 AM  Thu 01-Dec-2011",
+      "2011-12-01 11:52 AM",
+      "11:33aDec 1",
+      "12/1/11 11:52 AM (-05:00)",
+      "2011-12-01 11:52AM EST",
+      "12/1/2011 11:52AM EST",
+      "11:52 AM, Dec 01",
+      "12/01/2011 11:52 AM",
+      "Dec 01 - 11:33am"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "38": {
+    "questionId": 38,
+    "true_answers": [
+      "12/01/2011 07:30 AM"
+    ],
+    "predicted_answer": [
+      "2011-12-01 7:30 AM",
+      "07:30 AM  Thu 01-Dec-2011",
+      "2011-12-01 07:31 AM",
+      "7:31 AM, Dec 01",
+      "7:10aDec 1",
+      "12/1/2011 7:31AM EST",
+      "12/01/2011 07:30 AM",
+      "2011-12-01 07:31AM EST",
+      "12/1/11 7:31 AM (-05:00)",
+      "Dec 01 - 7:10am"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "39": {
+    "questionId": 39,
+    "true_answers": [
+      "12/01/2011 10:54 AM"
+    ],
+    "predicted_answer": [
+      "12/1/2011 10:55AM CST",
+      "10:55 AM, Dec 01",
+      "10:54 AM  Thu 01-Dec-2011",
+      "12/01/2011 10:54 AM",
+      "2011-12-01 10:55AM CST",
+      "10:35aDec 1",
+      "12/1/11 10:55 AM (-06:00)",
+      "Dec 01 - 10:35am",
+      "2011-12-01 10:54 AM"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  "40": {
+    "questionId": 40,
+    "true_answers": [
+      "12/01/2011 11:01 AM"
+    ],
+    "predicted_answer": [
+      "2011-12-01 11:02 AM",
+      "2011-12-01 11:01AM CST",
+      "2011-12-01 11:01 AM",
+      "Dec 01 - 10:47am",
+      "11:02 AM, Dec 01",
+      "12/1/11 11:02 AM (-06:00)",
+      "10:47aDec 1",
+      "12/01/2011 11:01 AM"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "41": {
+    "questionId": 41,
+    "true_answers": [
+      "12/01/2011 10:55 AM"
+    ],
+    "predicted_answer": [
+      "10:42aDec 1",
+      "Dec 01 - 10:42am",
+      "12/1/11 10:54 AM (-05:00)",
+      "2011-12-01 10:55 AM",
+      "12/01/2011 10:55 AM",
+      "12/1/2011 10:55AM EST",
+      "10:55 AMDec 01"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "42": {
+    "questionId": 42,
+    "true_answers": [
+      "12/01/2011 03:27 PM"
+    ],
+    "predicted_answer": [
+      "12/01/2011 03:27 PM",
+      "3:28 PM, Dec 01",
+      "3:00pDec 1",
+      "2011-12-01 03:27PM EST",
+      "2011-12-01 3:27 PM",
+      "Dec 01 - 3:00pm",
+      "12/1/11 3:28 PM (-05:00)",
+      "03:27 PM  Thu 01-Dec-2011"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "43": {
+    "questionId": 43,
+    "true_answers": [
+      "12/01/2011 06:10 AM"
+    ],
+    "predicted_answer": [
+      "2011-12-01 6:10 AM",
+      "12/1/11 6:11 AM (-07:00)",
+      "12/1/2011 6:11AM MST",
+      "06:10 AM  Thu 01-Dec-2011",
+      "12/01/2011 06:10 AM",
+      "5:56aDec 1",
+      "2011-12-01 06:10AM MST",
+      "6:11 AM, Dec 01",
+      "Dec 01 - 5:56am"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "44": {
+    "questionId": 44,
+    "true_answers": [
+      "12/01/2011 08:04 AM"
+    ],
+    "predicted_answer": [
+      "12/1/11 8:04 AM (-06:00)",
+      "2011-12-01 8:04 AM",
+      "12/01/2011 08:04 AM",
+      "12/1/2011 8:05AM CST",
+      "7:51aDec 1",
+      "8:05 AM, Dec 01",
+      "08:04 AM  Thu 01-Dec-2011",
+      "2011-12-01 08:05AM CST",
+      "Dec 01 - 7:51am"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "45": {
+    "questionId": 45,
+    "true_answers": [
+      "Thu, Dec 1 9:16 AM            Delayed"
+    ],
+    "predicted_answer": [
+      "9:43 AMDec 01",
+      "9:16aDec 1",
+      "Thu, Dec 1 9:16 AM            Delayed",
+      "2011-12-01 09:16 AM"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "46": {
+    "questionId": 46,
+    "true_answers": [
+      "Thu, Dec 1 8:12 AM"
+    ],
+    "predicted_answer": [
+      "8:12aDec 1",
+      "Dec 01 - 8:24am",
+      "8:26 AMDec 01",
+      "2011-12-01 08:12 AM",
+      "2011-12-01 8:12 AM",
+      "12/1/11 8:26 AM (-05:00)",
+      "Thu, Dec 1 8:12 AM"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "47": {
+    "questionId": 47,
+    "true_answers": [
+      "Thu, Dec 1 1:31 PM"
+    ],
+    "predicted_answer": [
+      "1:31pDec 1",
+      "2011-12-01 01:48PM CST",
+      "2011-12-01 1:31 PM",
+      "01:31 PM  Thu 01-Dec-2011",
+      "1:48 PM, Dec 01",
+      "Dec 01 - 1:47pm",
+      "12/1/11 1:48 PM (-06:00)",
+      "Thu, Dec 1 1:31 PM",
+      "12/1/2011 1:46PM CST"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "48": {
+    "questionId": 48,
+    "true_answers": [
+      "Thu, Dec 1 5:56 AM"
+    ],
+    "predicted_answer": [
+      "2011-12-01 05:56 AM",
+      "6:09aDec 1",
+      "12/1/2011 6:09AM PST",
+      "Thu, Dec 1 5:56 AM",
+      "6:10 AMDec 01",
+      "12/1/11 6:10 AM (-08:00)",
+      "Dec 01 - 6:09am",
+      "2011-12-01 5:56 AM"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "49": {
+    "questionId": 49,
+    "true_answers": [
+      "Thu, Dec 1 2:26 PM"
+    ],
+    "predicted_answer": [
+      "02:26 PM  Thu 01-Dec-2011",
+      "2011-12-01 2:26 PM",
+      "Dec 01 - 2:42pm",
+      "2011-12-01 02:42PM EST",
+      "12/1/11 2:43 PM (-05:00)",
+      "12/1/2011 2:41PM EST",
+      "2:42pDec 1",
+      "Thu, Dec 1 2:26 PM",
+      "2:43 PM, Dec 01"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "50": {
+    "questionId": 50,
+    "true_answers": [
+      "Thu, Dec 1 2:48 PM"
+    ],
+    "predicted_answer": [
+      "2011-12-01 2:48 PM",
+      "2:48pDec 1",
+      "2:59 PMDec 01",
+      "Thu, Dec 1 2:48 PM",
+      "2011-12-01 02:48 PM",
+      "Dec 01 - Contact Airline"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "51": {
+    "questionId": 51,
+    "true_answers": [
+      "Thu, Dec 1 2:10 PM"
+    ],
+    "predicted_answer": [
+      "2:38 PMDec 01",
+      "12/1/11 2:04 PM (-08:00)",
+      "2011-12-01 2:10 PM",
+      "2:37pDec 1",
+      "2011-12-01 02:10 PM",
+      "Thu, Dec 1 2:10 PM",
+      "Dec 01 - 2:37pm"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "52": {
+    "questionId": 52,
+    "true_answers": [
+      "Thu, Dec 1 12:57 PM            On Time"
+    ],
+    "predicted_answer": [
+      "12/1/11 1:09 PM (-07:00)",
+      "Thu, Dec 1 12:57 PM            On Time",
+      "1:43 PMDec 01",
+      "12/1/2011 1:42PM MST",
+      "2011-12-01 1:32 PM",
+      "Thu, Dec 1 1:32 PM            Delayed",
+      "12/1/11 1:43 PM (-07:00)",
+      "2011-12-01 01:32 PM",
+      "1:32pDec 1"
+    ],
+    "predict": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "53": {
+    "questionId": 53,
+    "true_answers": [
+      "Thu, Dec 1 1:32 PM            Delayed"
+    ],
+    "predicted_answer": [
+      "12/1/11 1:09 PM (-07:00)",
+      "Thu, Dec 1 12:57 PM            On Time",
+      "1:43 PMDec 01",
+      "12/1/2011 1:42PM MST",
+      "2011-12-01 1:32 PM",
+      "Thu, Dec 1 1:32 PM            Delayed",
+      "12/1/11 1:43 PM (-07:00)",
+      "2011-12-01 01:32 PM",
+      "1:32pDec 1"
+    ],
+    "predict": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "54": {
+    "questionId": 54,
+    "true_answers": [
+      "Thu, Dec 1 8:29 AM"
+    ],
+    "predicted_answer": [
+      "08:29 AM  Thu 01-Dec-2011",
+      "8:49 AM, Dec 01",
+      "12/1/2011 8:47AM EST",
+      "8:48aDec 1",
+      "2011-12-01 8:29 AM",
+      "2011-12-01 08:49 AM",
+      "12/1/11 8:48 AM (-05:00)",
+      "Thu, Dec 1 8:29 AM",
+      "Dec 01 - 8:48am"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "55": {
+    "questionId": 55,
+    "true_answers": [
+      "Thu, Dec 1 11:15 AM"
+    ],
+    "predicted_answer": [
+      "2011-12-01 11:15 AM",
+      "Thu, Dec 1 11:15 AM",
+      "12/1/11 11:47 AM (-05:00)",
+      "11:47 AMDec 01",
+      "11:15aDec 1",
+      "Dec 01 - Contact Airline"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "56": {
+    "questionId": 56,
+    "true_answers": [
+      "Thu, Dec 1 7:05 AM"
+    ],
+    "predicted_answer": [
+      "Thu, Dec 1 7:05 AM",
+      "12/1/11 7:30 AM (-06:00)",
+      "2011-12-01 07:07 AM",
+      "7:31 AMDec 01",
+      "7:07aDec 1",
+      "2011-12-01 7:07 AM",
+      "Dec 01 - Contact Airline"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "57": {
+    "questionId": 57,
+    "true_answers": [
+      "Thu, Dec 1 8:26 AM"
+    ],
+    "predicted_answer": [
+      "Dec 01 - 8:35am",
+      "Thu, Dec 1 8:26 AM",
+      "12/1/2011 8:37AM EST",
+      "8:37 AMDec 01",
+      "2011-12-01 8:26 AM",
+      "2011-12-01 08:26 AM",
+      "12/1/11 8:37 AM (-05:00)"
+    ],
+    "predict": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "58": {
+    "questionId": 58,
+    "true_answers": [
+      "Thu, Dec 1 4:28 PM            Delayed"
+    ],
+    "predicted_answer": [
+      "2011-12-01 4:28 PM",
+      "12/1/11 4:44 PM (-05:00)",
+      "4:28pDec 1",
+      "4:46 PM, Dec 01",
+      "2011-12-01 04:45PM EST",
+      "04:28 PM  Thu 01-Dec-2011",
+      "Dec 01 - Contact Airline",
+      "Thu, Dec 1 4:28 PM            Delayed"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  "59": {
+    "questionId": 59,
+    "true_answers": [
+      "Thu, Dec 1 4:15 PM"
+    ],
+    "predicted_answer": [
+      "Thu, Dec 1 4:15 PM",
+      "2011-12-01 04:15 PM",
+      "12/1/2011 4:35PM MST",
+      "4:37 PMDec 01",
+      "12/1/11 4:37 PM (-07:00)",
+      "4:15pDec 1",
+      "2011-12-01 4:15 PM"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "60": {
+    "questionId": 60,
+    "true_answers": [
+      "Thu, Dec 1 11:55 AM"
+    ],
+    "predicted_answer": [
+      "Thu, Dec 1 11:55 AM",
+      "2011-12-01 11:43 AM",
+      "11:43aDec 1",
+      "2011-12-01 11:55AM MST",
+      "12/1/11 11:55 AM (-07:00)",
+      "Dec 01 - Contact Airline",
+      "11:55 AM, Dec 01",
+      "11:43 AM  Thu 01-Dec-2011"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  "61": {
+    "questionId": 61,
+    "true_answers": [
+      "Thu, Dec 1 8:42 AM"
+    ],
+    "predicted_answer": [
+      "2011-12-01 08:42 AM",
+      "Thu, Dec 1 8:42 AM",
+      "2011-12-01 8:42 AM",
+      "12/1/2011 9:01AM EST",
+      "9:01 AMDec 01",
+      "12/1/11 9:00 AM (-05:00)",
+      "2011-12-01 08:51AM EST",
+      "Dec 01 - 9:00am"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "62": {
+    "questionId": 62,
+    "true_answers": [
+      "Thu, Dec 1 10:33 AM"
+    ],
+    "predicted_answer": [
+      "2011-12-01 10:33 AM",
+      "12/1/2011 10:53AM PST",
+      "10:53 AMDec 01",
+      "Thu, Dec 1 10:33 AM",
+      "12/1/11 10:53 AM (-08:00)"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "63": {
+    "questionId": 63,
+    "true_answers": [
+      "Thu, Dec 1 11:30 AM"
+    ],
+    "predicted_answer": [
+      "11:45 AM, Dec 01",
+      "11:30aDec 1",
+      "2011-12-01 11:30 AM",
+      "11:30 AM  Thu 01-Dec-2011",
+      "Thu, Dec 1 11:30 AM",
+      "2011-12-01 11:45AM MST",
+      "12/1/11 11:45 AM (-07:00)",
+      "Dec 01 - Contact Airline"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "64": {
+    "questionId": 64,
+    "true_answers": [
+      "Thu, Dec 1 11:08 PM            On Time"
+    ],
+    "predicted_answer": [
+      "2011-12-01 11:35PM PST",
+      "11/30/2011 11:34PM PST",
+      "Thu, Dec 1 11:08 PM            On Time"
+    ],
+    "predict": [
+      false,
+      false,
+      true
+    ]
+  },
+  "65": {
+    "questionId": 65,
+    "true_answers": [
+      "Thu, Dec 1 3:27 PM"
+    ],
+    "predicted_answer": [
+      "03:28 PM  Thu 01-Dec-2011",
+      "12/1/11 3:50 PM (-05:00)",
+      "Thu, Dec 1 3:27 PM",
+      "2011-12-01 3:28 PM",
+      "3:50 PM, Dec 01",
+      "Dec 01 - Contact Airline",
+      "3:28pDec 1"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  "66": {
+    "questionId": 66,
+    "true_answers": [
+      "Thu, Dec 1 1:48 PM            Delayed"
+    ],
+    "predicted_answer": [
+      "2:01 PMDec 01",
+      "2011-12-01 02:01PM EST",
+      "2011-12-01 1:48 PM",
+      "2011-12-01 01:48 PM",
+      "12/1/2011 1:59PM EST",
+      "1:48pDec 1",
+      "Thu, Dec 1 1:48 PM            Delayed"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "67": {
+    "questionId": 67,
+    "true_answers": [
+      "Thu, Dec 1 8:52 AM"
+    ],
+    "predicted_answer": [
+      "8:52aDec 1",
+      "Dec 01 - Contact Airline",
+      "2011-12-01 08:52 AM",
+      "9:05 AMDec 01",
+      "Thu, Dec 1 8:52 AM"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  "68": {
+    "questionId": 68,
+    "true_answers": [
+      "Thu, Dec 1 2:55 PM"
+    ],
+    "predicted_answer": [
+      "Thu, Dec 1 2:55 PM",
+      "2011-12-01 2:52 PM",
+      "2:52pDec 1",
+      "12/1/11 3:04 PM (-05:00)",
+      "2011-12-01 02:52 PM",
+      "Dec 01 - Contact Airline",
+      "3:04 PMDec 01"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "69": {
+    "questionId": 69,
+    "true_answers": [
+      "Thu, Dec 1 4:25 PM"
+    ],
+    "predicted_answer": [
+      "2011-12-01 04:30 PM",
+      "2011-12-01 4:28 PM (Estimated runway)",
+      "11/30/2011 4:28PM PST",
+      "Dec 01 - Not Available",
+      "2011-12-01 04:35PM PST",
+      "12/1/11 4:28 PM (-08:00)",
+      "Not Available",
+      "Thu, Dec 1 4:25 PM"
+    ],
+    "predict": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "70": {
+    "questionId": 70,
+    "true_answers": [
+      "Thu, Dec 1 4:00 PM"
+    ],
+    "predicted_answer": [
+      "2011-12-01 04:10PM EST",
+      "3:58pDec 1",
+      "Thu, Dec 1 4:00 PM",
+      "4:10 PM, Dec 01",
+      "Dec 01 - Contact Airline",
+      "2011-12-01 3:58 PM",
+      "12/1/11 4:10 PM (-05:00)",
+      "03:58 PM  Thu 01-Dec-2011"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "71": {
+    "questionId": 71,
+    "true_answers": [
+      "Thu, Dec 1 3:11 AM"
+    ],
+    "predicted_answer": [
+      "11:51aDec 1",
+      "2011-12-01 12:07PM EST",
+      "12:08 PM, Dec 01",
+      "12/1/11 12:07 PM (-05:00)",
+      "Thu, Dec 1 3:11 AM",
+      "11:51 AM  Thu 01-Dec-2011",
+      "Dec 01 - Contact Airline",
+      "2011-12-01 11:51 AM"
+    ],
+    "predict": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "72": {
+    "questionId": 72,
+    "true_answers": [
+      "Thu, Dec 1 7:27 AM"
+    ],
+    "predicted_answer": [
+      "7:27aDec 1",
+      "12/1/11 7:41 AM (-07:00)",
+      "2011-12-01 07:27 AM",
+      "7:41 AMDec 01",
+      "Thu, Dec 1 7:27 AM",
+      "Dec 01 - 7:41am",
+      "12/1/2011 7:41AM MST"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "73": {
+    "questionId": 73,
+    "true_answers": [
+      "Thu, Dec 1 2:55 PM"
+    ],
+    "predicted_answer": [
+      "Thu, Dec 1 2:55 PM",
+      "2011-12-01 2:46 PM",
+      "12/1/11 3:04 PM (-05:00)",
+      "2:46pDec 1",
+      "2011-12-01 02:46 PM",
+      "Dec 01 - Contact Airline",
+      "3:04 PMDec 01"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "74": {
+    "questionId": 74,
+    "true_answers": [
+      "Thu, Dec 1 12:35 PM            Delayed"
+    ],
+    "predicted_answer": [
+      "12/1/2011 12:55PM EST",
+      "12:35pDec 1",
+      "Thu, Dec 1 12:35 PM            Delayed",
+      "2011-12-01 12:30",
+      "2011-12-01 12:56PM EST",
+      "2011-12-01 12:35 PM",
+      "12/1/11 12:56 PM (-05:00)",
+      "12:56 PMDec 01"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "75": {
+    "questionId": 75,
+    "true_answers": [
+      "Thu, Dec 1 12:35 PM            Delayed"
+    ],
+    "predicted_answer": [
+      "12/1/2011 12:55PM EST",
+      "12:35pDec 1",
+      "Thu, Dec 1 12:35 PM            Delayed",
+      "2011-12-01 12:30",
+      "2011-12-01 12:56PM EST",
+      "2011-12-01 12:35 PM",
+      "12/1/11 12:56 PM (-05:00)",
+      "12:56 PMDec 01"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "76": {
+    "questionId": 76,
+    "true_answers": [
+      "Thu, Dec 1 1:32 PM"
+    ],
+    "predicted_answer": [
+      "12:45 AMDec 01",
+      "12/1/11 1:50 PM (+08:00)",
+      "Dec 01 - 1:50pm",
+      "2011-12-01 01:32 PM",
+      "1:32pDec 1",
+      "Thu, Dec 1 1:32 PM",
+      "1:45 PMDec 01"
+    ],
+    "predict": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "77": {
+    "questionId": 77,
+    "true_answers": [
+      "Thu, Dec 1 7:49 AM"
+    ],
+    "predicted_answer": [
+      "Thu, Dec 1 7:49 AM",
+      "2011-12-01 08:07 AM",
+      "12/1/11 8:07 AM (-08:00)",
+      "2011-12-01 7:49 AM",
+      "Dec 01 - 8:07am",
+      "8:07 AMDec 01",
+      "2011-12-01 07:49 AM",
+      "7:49aDec 1"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "78": {
+    "questionId": 78,
+    "true_answers": [
+      "Thu., Dec.01, 2011 10:20 a.m."
+    ],
+    "predicted_answer": [
+      "Thu., Dec.01, 2011 10:20 a.m.",
+      "10:37 AMDec 01",
+      "2011-12-01 10:20 AM",
+      "10:20aDec 1"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "79": {
+    "questionId": 79,
+    "true_answers": [
+      "Thu., Dec.01, 2011 9:14 a.m."
+    ],
+    "predicted_answer": [
+      "09:14 AM  Thu 01-Dec-2011",
+      "12/1/2011 9:56AM EST",
+      "2011-12-01 09:57AM EST",
+      "9:14aDec 1",
+      "2011-12-01 9:14 AM",
+      "Dec 01 - 9:14am",
+      "Thu., Dec.01, 2011 9:14 a.m.",
+      "9:58 AM, Dec 01"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "80": {
+    "questionId": 80,
+    "true_answers": [
+      "Thu., Dec.01, 2011 12:41 a.m."
+    ],
+    "predicted_answer": [
+      "12:58 AMDec 01",
+      "2011-12-01 12:41 AM",
+      "12:41aDec 1",
+      "Thu., Dec.01, 2011 12:41 a.m.",
+      "12/1/2011 12:57AM PST"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "81": {
+    "questionId": 81,
+    "true_answers": [
+      "Thu., Dec.01, 2011 3:58 p.m."
+    ],
+    "predicted_answer": [
+      "3:58pDec 1",
+      "Thu., Dec.01, 2011 3:58 p.m.",
+      "4:15 PM, Dec 01",
+      "Dec 01 - 3:58pm",
+      "2011-12-01 3:58 PM",
+      "2011-12-01 04:14PM EST",
+      "03:58 PM  Thu 01-Dec-2011"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "82": {
+    "questionId": 82,
+    "true_answers": [
+      "Thu., Dec.01, 2011 5:22 p.m."
+    ],
+    "predicted_answer": [
+      "2011-12-01 05:38PM EST",
+      "2011-12-01 5:22 PM",
+      "5:38 PMDec 01",
+      "5:22pDec 1",
+      "2011-12-01 05:22 PM",
+      "Thu., Dec.01, 2011 5:22 p.m."
+    ],
+    "predict": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "83": {
+    "questionId": 83,
+    "true_answers": [
+      "Thu., Dec.01, 2011 3:31 p.m."
+    ],
+    "predicted_answer": [
+      "Dec 01 - 3:31pm",
+      "4:02 PMDec 01",
+      "2011-12-01 3:31 PM",
+      "Thu., Dec.01, 2011 3:31 p.m.",
+      "3:31pDec 1",
+      "2011-12-01 03:31 PM"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "84": {
+    "questionId": 84,
+    "true_answers": [
+      "Thu., Dec.01, 2011 8:00 a.m."
+    ],
+    "predicted_answer": [
+      "2011-12-01 08:00 AM",
+      "8:18 AMDec 01",
+      "8:00aDec 1",
+      "2011-12-01 8:00 AM",
+      "12/1/2011 8:17AM MST",
+      "Thu., Dec.01, 2011 8:00 a.m.",
+      "Dec 01 - 8:00am"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "85": {
+    "questionId": 85,
+    "true_answers": [
+      "Thu., Dec.01, 2011 8:25 p.m."
+    ],
+    "predicted_answer": [
+      "2011-12-01 08:25 PM",
+      "2011-12-01 8:25 PM",
+      "Thu., Dec.01, 2011 8:25 p.m.",
+      "8:25pDec 1",
+      "8:36 PMDec 01",
+      "2011-12-01 07:27PM CST"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "86": {
+    "questionId": 86,
+    "true_answers": [
+      "Thu., Dec.01, 2011 7:14 p.m."
+    ],
+    "predicted_answer": [
+      "7:42 PMDec 01",
+      "2011-12-01 07:42PM CST",
+      "2011-12-01 7:14 PM",
+      "Thu., Dec.01, 2011 7:14 p.m.",
+      "2011-12-01 07:14 PM",
+      "7:14pDec 1",
+      "12/1/2011 7:41PM CST"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "87": {
+    "questionId": 87,
+    "true_answers": [
+      "Thu., Dec.01, 2011 7:15 p.m."
+    ],
+    "predicted_answer": [
+      "Thu., Dec.01, 2011 7:15 p.m.",
+      "2011-12-01 07:25PM PST",
+      "2011-12-01 7:15 PM (Estimated)",
+      "Dec 01 - Contact Airline",
+      "Not Available"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "88": {
+    "questionId": 88,
+    "true_answers": [
+      "Thu., Dec.01, 2011 5:30 p.m."
+    ],
+    "predicted_answer": [
+      "Thu., Dec.01, 2011 5:30 p.m.",
+      "2011-12-01 5:30 PM (Estimated)",
+      "12/1/11 5:38 PM (-06:00)",
+      "2011-12-01 06:11PM CST"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "89": {
+    "questionId": 89,
+    "true_answers": [
+      "Thu., Dec.01, 2011 8:40 a.m."
+    ],
+    "predicted_answer": [
+      "2011-12-01 08:40 AM",
+      "Thu., Dec.01, 2011 8:40 a.m.",
+      "Dec 01 - 8:40am",
+      "8:40aDec 1",
+      "2011-12-01 8:40 AM",
+      "9:01 AMDec 01"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "90": {
+    "questionId": 90,
+    "true_answers": [
+      "Thu., Dec.01, 2011 11:32 a.m."
+    ],
+    "predicted_answer": [
+      "Thu., Dec.01, 2011 11:32 a.m.",
+      "11:37aDec 1",
+      "12:37 PMDec 01",
+      "2011-12-01 11:32 AM"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  "91": {
+    "questionId": 91,
+    "true_answers": [
+      "Thu., Dec.01, 2011 11:56 a.m."
+    ],
+    "predicted_answer": [
+      "2011-12-01 12:06PM CST",
+      "Thu., Dec.01, 2011 11:56 a.m.",
+      "11:56aDec 1",
+      "12:06 PMDec 01",
+      "2011-12-01 11:56 AM",
+      "12/1/2011 12:05PM CST"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  "92": {
+    "questionId": 92,
+    "true_answers": [
+      "Thu., Dec.01, 2011 3:01 p.m."
+    ],
+    "predicted_answer": [
+      "3:17 PMDec 01",
+      "Thu., Dec.01, 2011 3:01 p.m.",
+      "2011-12-01 03:01 PM",
+      "Dec 01 - 3:01pm",
+      "2011-12-01 3:01 PM",
+      "3:01pDec 1"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "93": {
+    "questionId": 93,
+    "true_answers": [
+      "Thu., Dec.01, 2011 2:48 p.m."
+    ],
+    "predicted_answer": [
+      "Thu., Dec.01, 2011 2:48 p.m.",
+      "2011-12-01 2:48 PM",
+      "2:48pDec 1",
+      "2:59 PMDec 01",
+      "2011-12-01 02:48 PM",
+      "Dec 01 - 2:48pm"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "94": {
+    "questionId": 94,
+    "true_answers": [
+      "Thu., Dec.01, 2011 7:29 a.m."
+    ],
+    "predicted_answer": [
+      "2011-12-01 07:56AM CST",
+      "2011-12-01 7:29 AM",
+      "2011-12-01 07:29 AM",
+      "Thu., Dec.01, 2011 7:29 a.m.",
+      "7:56 AMDec 01"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "95": {
+    "questionId": 95,
+    "true_answers": [
+      "Thu., Dec.01, 2011 6:02 a.m."
+    ],
+    "predicted_answer": [
+      "2011-12-01 06:02 AM",
+      "6:02aDec 1",
+      "2011-12-01 6:02 AM",
+      "6:17 AMDec 01",
+      "Thu., Dec.01, 2011 6:02 a.m.",
+      "Dec 01 - 6:02am"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "96": {
+    "questionId": 96,
+    "true_answers": [
+      "Thu., Dec.01, 2011 10:19 a.m."
+    ],
+    "predicted_answer": [
+      "Thu., Dec.01, 2011 10:19 a.m.",
+      "2011-12-01 10:19 AM",
+      "10:35 AMDec 01",
+      "10:19aDec 1"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true
+    ]
+  }
+}

@@ -1,0 +1,2046 @@
+{
+  "0": {
+    "questionId": 0,
+    "true_answers": [
+      "o'leary, timothy j.",
+      "o'leary, linda i."
+    ],
+    "predicted_answer": [
+      "timothy j oandapos;leary, linda i oandapos;leary",
+      "o'leary, linda i. j.",
+      "o'leary, timothy j./ o'leary, linda i.",
+      "o'leary, timothy j.; o'leary, linda i."
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "1": {
+    "questionId": 1,
+    "true_answers": [
+      "yacht, carol",
+      "crosson, susan"
+    ],
+    "predicted_answer": [
+      "yacht, carol, and crosson, susan",
+      "yacht, carol; crosson, susan",
+      "carol yacht",
+      "yacht, carol/ crosson, susan",
+      "yacht"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "2": {
+    "questionId": 2,
+    "true_answers": [
+      "hutton, david v."
+    ],
+    "predicted_answer": [
+      "david v. hutton, david hutton",
+      "david w. hutton",
+      "hutton, david v."
+    ],
+    "predict": [
+      true,
+      false,
+      true
+    ]
+  },
+  "3": {
+    "questionId": 3,
+    "true_answers": [
+      "haag, stephen",
+      "perry, james t.",
+      "sosinsky, barrie",
+      "estevez, efren"
+    ],
+    "predicted_answer": [
+      "haag, stephen perry, james t. sosinsky, barrie estevez, efren",
+      "haag, stephen/ perry, james t./ sosinsky, barrie/ estevez, efren",
+      "haag, stephen",
+      "stephen haag",
+      "estevez, efren"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "4": {
+    "questionId": 4,
+    "true_answers": [
+      "reddy, j. n."
+    ],
+    "predicted_answer": [
+      "j. n. reddy",
+      "j.n. reddy",
+      "reddy, j. n."
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "5": {
+    "questionId": 5,
+    "true_answers": [
+      "conklin, wm. arthur",
+      "white, gregory b.",
+      "cothren, chuck",
+      "williams, dwayne",
+      "davis, roger l."
+    ],
+    "predicted_answer": [
+      "roger davis",
+      "conklin, art/ white, gregory/ cothren, chuck/ williams, dwayne/ davis, roger",
+      "conklin, wm. arthur; white, gregory; cothren, chuck; williams, d",
+      "conklin, wm arthur",
+      "conklin, wm. arthur",
+      "wm. arthur conklin, et al",
+      "conklin, wm arthur (author) white, gregory b. (author) cothren, chuck (author)",
+      "art conklin, gregory white, chuck cothren, dwayne williams, roger davis"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "6": {
+    "questionId": 6,
+    "true_answers": [
+      "suhanovs, dennis"
+    ],
+    "predicted_answer": [
+      "dennis suhanovs, press certification, certification press"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "7": {
+    "questionId": 7,
+    "true_answers": [
+      "scambray, joel",
+      "mcclure, stuart"
+    ],
+    "predicted_answer": [
+      "joel scambray, stuart mcclure",
+      "scambray, joel mcclure, stuart",
+      "scambray, joel",
+      "joel scambray"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "8": {
+    "questionId": 8,
+    "true_answers": [
+      "white, gregory"
+    ],
+    "predicted_answer": [
+      "white, greg (author) conklin, art (joint author) cothren, chuck (joint author)",
+      "gregory white",
+      "white, gregory b.",
+      "white, greg",
+      "white, gregory",
+      "gregory b. white",
+      "shon harris"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "9": {
+    "questionId": 9,
+    "true_answers": [
+      "xiang, zhigang",
+      "plastock, roy a."
+    ],
+    "predicted_answer": [
+      "xiang, zhigang",
+      "zhigang xiang, roy a. plastock",
+      "xiang, zhigang/ plastock, roy a.",
+      "zhigang xiang",
+      "plastock, roy a. (author) xiang, zhigang (author) xiang, zhigang (joint author)",
+      "plastock, roy a."
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "10": {
+    "questionId": 10,
+    "true_answers": [
+      "meadors, todd",
+      "schmidt, cheryl a."
+    ],
+    "predicted_answer": [
+      "meadors, todd/ schmidt, cheryl ann",
+      "cheryl schmidt",
+      "schmidt, cheryl a.",
+      "meadors, todd, schmidt, cheryl a.",
+      "todd meadors"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "11": {
+    "questionId": 11,
+    "true_answers": [
+      "courage, catherine",
+      "baxter, kathy"
+    ],
+    "predicted_answer": [
+      "courage, catherine",
+      "courage, catherine/ baxter, kathy",
+      "baxter, kathy",
+      "catherine courage, kathy baxter",
+      "courage; baxter",
+      "catherine courage",
+      "baxter, kathy courage, catherine"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "12": {
+    "questionId": 12,
+    "true_answers": [
+      "kumar, c bala",
+      "kline, paul j.",
+      "thompson, tim j."
+    ],
+    "predicted_answer": [
+      "kumar, c. bala (author) kline, paul (author) thompson, tim (author)",
+      "kumar, c.bala",
+      "kumar, c. bala/ kline, paul j./ thompson, timothy j.",
+      "paul j. kline",
+      "kumar, c. bala",
+      "by (author) kumar, c bala by (author) kline, paul by (author) thompson, tim",
+      "c bala kumar",
+      "c bala kumar, et al"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "13": {
+    "questionId": 13,
+    "true_answers": [
+      "halpin, terry",
+      "evans, ken",
+      "hallock, pat",
+      "maclean, bill"
+    ],
+    "predicted_answer": [
+      "terry halpin, et al",
+      "halpin, terry",
+      "by (author) halpin, terry by (author) evans, ken by (author) hallock, pat by (author) maclean, bill",
+      "terry halpin, ken evans, pat hallock, bill maclean"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "14": {
+    "questionId": 14,
+    "true_answers": [
+      "han, jiawei",
+      "kamber, micheline"
+    ],
+    "predicted_answer": [
+      "han, jiawei kamber, micheline (simon fraser university, barnaby, canada)",
+      "jiawei han, micheline kamber",
+      "jiawei han",
+      "han",
+      "han, jiawei/ kamber, micheline",
+      "han, jiawei",
+      "han; kamber",
+      "by (author) han, jiawei by (author) kamber, micheline",
+      "han, jiawei (author) kamber, micheline (author)"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "15": {
+    "questionId": 15,
+    "true_answers": [
+      "goldman, ron",
+      "gabriel, richard p."
+    ],
+    "predicted_answer": [
+      "goldman,ron; gabriel,richard p",
+      "ron goldman, richard p. gabriel",
+      "goldman, ron/ gabriel, richard p.",
+      "goldman, ron gabriel, richard p.",
+      "goldman, ron"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "16": {
+    "questionId": 16,
+    "true_answers": [
+      "hoos, holger h.",
+      "stutzle, thomas"
+    ],
+    "predicted_answer": [
+      "holger h. hoos, thomas st&uuml;tzle",
+      "by (author) hoos, holger h. by (author) st&uuml;tzle, thomas",
+      "hoos, holger"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "17": {
+    "questionId": 17,
+    "true_answers": [
+      "strassner, john c."
+    ],
+    "predicted_answer": [
+      "strassner,john",
+      "strassner, john",
+      "john strassner",
+      "strassner, john s.",
+      "strassner, john btrabsner, john"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "18": {
+    "questionId": 18,
+    "true_answers": [
+      "makofske, david",
+      "almeroth, kevin"
+    ],
+    "predicted_answer": [
+      "david makofske, kevin almeroth",
+      "almeroth, kevin c.",
+      "almeroth, kevin/ makofske, david",
+      "david b. makofske, kevin c. almeroth"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "19": {
+    "questionId": 19,
+    "true_answers": [
+      "lacroix, zoe",
+      "critchlow, terence"
+    ],
+    "predicted_answer": [
+      "edited by lacroix, zo&eacute; edited by critchlow, terence",
+      "zo&eacute; lacroix, terence critchlow",
+      "lacroix, zoe (ed.)",
+      "zoe lacroix",
+      "lacroix, zoe (edt)/ critchlow, terence (edt)",
+      "editor: lacroix, zoe",
+      "lacroix, zoe"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "20": {
+    "questionId": 20,
+    "true_answers": [
+      "loshin, pete"
+    ],
+    "predicted_answer": [
+      "loshin, peter",
+      "loshin, pete",
+      "loshin, peter (author)",
+      "pete loshin"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "21": {
+    "questionId": 21,
+    "true_answers": [
+      "strothotte, thomas",
+      "schlechtweg, stefan"
+    ],
+    "predicted_answer": [
+      "thomas strothotte, stefan schlechtweg",
+      "strothotte,thomas; schlechtweg,stefan",
+      "by (author) strothotte, thomas by (author) schlechtweg, stefan",
+      "strothotte, thomas"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "22": {
+    "questionId": 22,
+    "true_answers": [
+      "harmon, paul"
+    ],
+    "predicted_answer": [
+      "paul harmon",
+      "by (author) harmon, paul",
+      "harmon",
+      "harmon, paul"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "23": {
+    "questionId": 23,
+    "true_answers": [
+      "chisholm, malcolm"
+    ],
+    "predicted_answer": [
+      "chisholm, malcolm h."
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "24": {
+    "questionId": 24,
+    "true_answers": [
+      "puder, arno",
+      "romer, kay",
+      "pilhofer, frank"
+    ],
+    "predicted_answer": [
+      "puder, arno/ romer, kay/ pilhofer, frank",
+      "by (author) puder, arno by (author) r&ouml;mer, kay by (author) pilhofer, frank",
+      "puder, arno",
+      "puder, arno rvmer, kay",
+      "puder",
+      "puder, arno; romer, kay; pilhofer, frank",
+      "arno puder"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "25": {
+    "questionId": 25,
+    "true_answers": [
+      "harris, david"
+    ],
+    "predicted_answer": [
+      "david harris",
+      "harris, david"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "26": {
+    "questionId": 26,
+    "true_answers": [
+      "kennedy, james",
+      "eberhart, russell c."
+    ],
+    "predicted_answer": [
+      "eberhart, russell kennedy, james shi, yuhui et al",
+      "eberhart, russell c.",
+      "kennedy, james",
+      "kennedy, james f./ eberhart, russell/ shi, yuhui",
+      "by (author) eberhart, russell c. by (author) shi, yuhui by (author) kennedy, james",
+      "russell c. eberhart",
+      "james kennedy, russell c. eberhart",
+      "kennedy, james (author) eberhart, russell c. (joint author) shi, yuhui (with)",
+      "russell c. eberhart, et al",
+      "eberhart,russell; shi,yuhui"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "27": {
+    "questionId": 27,
+    "true_answers": [
+      "hegering, heinz-gerd",
+      "neumair, bernhard",
+      "abeck, sebastian"
+    ],
+    "predicted_answer": [
+      "hegering, heinz-gerd/ abeck, sebastian/ neumair, bernhard",
+      "hegering, heinz-gerd (author) neumair, bernhard (joint author) abeck, sebastian (joint author)",
+      "heinz_gerd hegering, et al",
+      "heinz-gerd hegering",
+      "hegering, heinz-gerd"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "28": {
+    "questionId": 28,
+    "true_answers": [
+      "muller, robert j."
+    ],
+    "predicted_answer": [
+      "muller, robert j.",
+      "muller, robert j",
+      "robert j. muller"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "29": {
+    "questionId": 29,
+    "true_answers": [
+      "jones, karen sparck",
+      "willett, peter"
+    ],
+    "predicted_answer": [
+      "karen sparck jones, peter willett",
+      "willett, peter",
+      "edited by jones, karen sparck edited by willett, peter",
+      "karen sparck jones"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "30": {
+    "questionId": 30,
+    "true_answers": [
+      "stollnitz, eric j.",
+      "derose, tony d.",
+      "salesin, david h."
+    ],
+    "predicted_answer": [
+      "stollnitz, eric j./ derose, tony d./ salesin, david h.",
+      "eric stollnitz",
+      "eric j. stollnitz",
+      "stollnitz, eric j.",
+      "stollnitz, eric"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "31": {
+    "questionId": 31,
+    "true_answers": [
+      "widom, jennifer",
+      "ceri, stefano"
+    ],
+    "predicted_answer": [
+      "jennifer widom",
+      "jennifer widom stefano ceri"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "32": {
+    "questionId": 32,
+    "true_answers": [
+      "przybylski, steven a."
+    ],
+    "predicted_answer": [
+      "przybylski, steven",
+      "przybylski, steven a.",
+      "steven a. przybylski",
+      "steven przybylski",
+      "przybylski, steven (author)"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "33": {
+    "questionId": 33,
+    "true_answers": [
+      "erbschloe, michael"
+    ],
+    "predicted_answer": [
+      "erbschloe",
+      "erbschloe, michael",
+      "michael erbschloe"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "34": {
+    "questionId": 34,
+    "true_answers": [
+      "lissoir, alain"
+    ],
+    "predicted_answer": [
+      "lissoir, alain",
+      "alain lissoir",
+      "lissoir,alain"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "35": {
+    "questionId": 35,
+    "true_answers": [
+      "duffy, michael d."
+    ],
+    "predicted_answer": [
+      "duffy, michael",
+      "michael d. duffy",
+      "michael d duffy",
+      "duffy, michael d.",
+      "by (author) duffy, michael d"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "36": {
+    "questionId": 36,
+    "true_answers": [
+      "fortier, paul j.",
+      "michel, howard e."
+    ],
+    "predicted_answer": [
+      "michel, howard",
+      "fortier,paul",
+      "paul j. fortier, howard michel",
+      "paul fortier, howard michel",
+      "fortier, paul j./ michel, howard, ph.d."
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "37": {
+    "questionId": 37,
+    "true_answers": [
+      "etzel, michael",
+      "dickinson, karen"
+    ],
+    "predicted_answer": [
+      "michael etzel, karen dickinson",
+      "etzel, michael"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "38": {
+    "questionId": 38,
+    "true_answers": [
+      "steele, guy l."
+    ],
+    "predicted_answer": [
+      "steele, guy l.",
+      "guy steele",
+      "steele, guy l"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "39": {
+    "questionId": 39,
+    "true_answers": [
+      "shaw, paul d."
+    ],
+    "predicted_answer": [
+      "shaw, paul (author) shaw (author)",
+      "shaw, paul d.",
+      "paul shaw",
+      "shaw, paul"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "40": {
+    "questionId": 40,
+    "true_answers": [
+      "pease, robert a."
+    ],
+    "predicted_answer": [
+      "by (author) pease, robert",
+      "pease",
+      "pease, robert a.",
+      "robert a. pease",
+      "robert pease"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "41": {
+    "questionId": 41,
+    "true_answers": [
+      "jones, andy",
+      "ashenden, debi"
+    ],
+    "predicted_answer": [
+      "jones, andy/ ashenden, debi",
+      "jones, andy",
+      "by (author) jones, andy by (author) ashenden, debi",
+      "andy jones, debi ashenden, debi ashenden",
+      "jones,andy; ashenden,debi",
+      "andy jones",
+      "jones, andy ashenden, debi"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "42": {
+    "questionId": 42,
+    "true_answers": [
+      "boyce, joseph g.",
+      "jennings, dan w."
+    ],
+    "predicted_answer": [
+      "boyce, joseph g. (author) jennings, dan w. (author)",
+      "joseph boyce, daniel jennings",
+      "daniel jennings, joseph boyce",
+      "boyce, joseph g./ jennings, dan w.",
+      "boyce, joseph",
+      "boyce, joseph g."
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "43": {
+    "questionId": 43,
+    "true_answers": [
+      "mcmanus, john"
+    ],
+    "predicted_answer": [
+      "by (author) mcmanus, john",
+      "mcmanus, john",
+      "john mcmanus",
+      "mcmanus"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "44": {
+    "questionId": 44,
+    "true_answers": [
+      "pooley, rob",
+      "wilcox, pauline"
+    ],
+    "predicted_answer": [
+      "rob pooley",
+      "by (author) pooley, rob by (author) wilcox, pauline",
+      "rob pooley, pauline wilcox",
+      "pooley, rob j."
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "45": {
+    "questionId": 45,
+    "true_answers": [
+      "mcmanus, jeffrey p.",
+      "goldstein, jackie"
+    ],
+    "predicted_answer": [
+      "mcmanus, jeffrey p., goldstein, jackie",
+      "jeffrey p. mcmanus, jackie goldstein",
+      "mcmanus, jeffrey p./ goldstein, jackie/ price, kevin t.",
+      "mcmanus, jeffrey p."
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "46": {
+    "questionId": 46,
+    "true_answers": [
+      "jenssen, c. b.",
+      "kvamdal, t.",
+      "andersson, h. i.",
+      "Ecer, A.",
+      "Periaux, J.",
+      "Satofuka, N.",
+      "Fox, P."
+    ],
+    "predicted_answer": [
+      "parallel cfd 2000 conference (2000 trondheim, norway)/ kvamsdal, t. (edt)/ andersson, h. i. (edt)/ pettersen, b. (edt)/ ecer, akin (edt)/ periaux, j. (edt)/ satofuka, n. (edt)/ fox, p. (edt)/ jenssen, c. b. (edt)/ jenssen, c. b.",
+      "jenssen, c. b.",
+      "jenssen, c. b. (author) kvamdal, t. (author) andersson, h. i. (author)",
+      "c.b. jenssen"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "47": {
+    "questionId": 47,
+    "true_answers": [
+      "dowd, mark",
+      "mcdonald, john",
+      "schuh, justin"
+    ],
+    "predicted_answer": [
+      "dowd, mark mcdonald, john",
+      "dowd, mark",
+      "dowd, mark; mcdonald, john",
+      "dowd, mark/ mcdonald, john/ schuh, justin",
+      "mark dowd",
+      "dowd, mark, mcdonald, john, schuh, justin",
+      "mark dowd john mcdonald justin schuh",
+      "dowd mark, mcdonald john"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "48": {
+    "questionId": 48,
+    "true_answers": [
+      "mcgraw, gary",
+      "viega, john",
+      "hoglund, greg"
+    ],
+    "predicted_answer": [
+      "mcgraw, gary/ hoglund, greg/ viega, john",
+      "viega, john; hoglund, greg; mcgraw, gary",
+      "mcgraw, gary",
+      "mcgraw, gary (author) viega, john (author) hoglund, greg (author)"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "49": {
+    "questionId": 49,
+    "true_answers": [
+      "woody, buck"
+    ],
+    "predicted_answer": [
+      "buck woody",
+      "woody, buck"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "50": {
+    "questionId": 50,
+    "true_answers": [
+      "conry-murray, andrew",
+      "weafer, vincent"
+    ],
+    "predicted_answer": [
+      "conry-murray, andrew (author) weafer, vincent (author)",
+      "conry-murray andrew, weafer vincent",
+      "weafer, vincent",
+      "andrew conry-murray vincent weafer",
+      "conry-murray, andrew/ weafer, vincent",
+      "andrew conry-murray",
+      "andrew conry_murray",
+      "conry-murray, andrew, weafer, vincent",
+      "conry-murray, andrew",
+      "weafer, vincent conry-murray, andrew"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "51": {
+    "questionId": 51,
+    "true_answers": [
+      "seacord, robert c."
+    ],
+    "predicted_answer": [
+      "robert c. seacord",
+      "seacord, robert",
+      "seacord, robert c",
+      "seacord, robert c.",
+      "seacord, robert c. (author)",
+      "seacord robert"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "52": {
+    "questionId": 52,
+    "true_answers": [
+      "sudkamp, thomas a."
+    ],
+    "predicted_answer": [
+      "thomas a. sudkamp",
+      "thomas a. sudkamp , wright state university",
+      "sudkamp",
+      "sudkamp, thomas a."
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "53": {
+    "questionId": 53,
+    "true_answers": [
+      "ben-ari, m."
+    ],
+    "predicted_answer": [
+      "ben-ari, m.",
+      "m. ben-ari , department of science teaching, weizmann institute"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "54": {
+    "questionId": 54,
+    "true_answers": [
+      "adams, tyrone",
+      "scollard, sharon"
+    ],
+    "predicted_answer": [
+      "adams, tyrone l.",
+      "adams, tyrone/ scollard, sharon/ clark, norman",
+      "scollard, lafayette",
+      "scollard, lafayette scollard, sharon adams, tyrone",
+      "tyrone adams",
+      "adams, tyrone, scollard, sharon",
+      "tyrone adams , university of louisiana, lafayette sharon scoll",
+      "adams &amp; scollard",
+      "tyrone adams, sharon scollard"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "55": {
+    "questionId": 55,
+    "true_answers": [
+      "henderson, ken"
+    ],
+    "predicted_answer": [
+      "henderson, ken/ cambell, david (frw)/ soukup, ron (frw)/ celko, joe (frw)",
+      "ken henderson",
+      "henderson, ken (author)",
+      "henderson, ken"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "56": {
+    "questionId": 56,
+    "true_answers": [
+      "coulouris, george",
+      "dollimore, jean",
+      "kindberg, tim"
+    ],
+    "predicted_answer": [
+      "coulouris, george dollimore, jean kindberg, tim",
+      "coulouris jean dollimore , queen mary and westfield college, u",
+      "george coulouris, et al",
+      "coulouris, george/ dollimore, jean/ kindberg, tim",
+      "coulouris, dollimore &amp; kindberg",
+      "coulouris, george (author) dollimore, jean (author) kindberg, tim (author)",
+      "coulouris, george",
+      "coulouris, dollimore, jean, kindberg, tim",
+      "coulouris, george f.",
+      "george coulouris",
+      "coulouris, georgebrdollimore, jeanbrkindberg, tim"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "57": {
+    "questionId": 57,
+    "true_answers": [
+      "snader, jon c."
+    ],
+    "predicted_answer": [
+      "snader, jon c.",
+      "snader, jon",
+      "snader, jon c",
+      "snader jon c",
+      "jon c. snader"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "58": {
+    "questionId": 58,
+    "true_answers": [
+      "nantz, brian"
+    ],
+    "predicted_answer": [
+      "nantz, brian",
+      "brian nantz"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "59": {
+    "questionId": 59,
+    "true_answers": [
+      "filman, robert e.",
+      "elrad, tzilla",
+      "clarke, siobhan",
+      "aksit, mehmet"
+    ],
+    "predicted_answer": [
+      "filman, robert e./ elrad, tzilla/ clarke, siobhan/ aksit, mehmet",
+      "filman, robert e.",
+      "filman, robert e., elrad, tzilla, clarke, siobhan, aksit, mehmet",
+      "mehmet aksit"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "60": {
+    "questionId": 60,
+    "true_answers": [
+      "singh, inderjeet",
+      "brydon, sean",
+      "murray, greg",
+      "ramachandran, vijay",
+      "violleau, thierry",
+      "stearns, beth"
+    ],
+    "predicted_answer": [
+      "singh inderjeet et al",
+      "singh, inderjeet/ brydon, sean/ murray, greg/ ramachandran, vijay/ violleau, thierry/ stearns, beth",
+      "singh, inderjeet",
+      "inderjeet singh",
+      "beth stearns",
+      "inderjeet singh sean brydon greg murray vijay ramachandran",
+      "singh, inderjeet brydon, sean murray, greg ramachandran, vijay v",
+      "singh, inderjeet, brydon, sean, murray, greg, ramachandran, vijay, violleau, thierry, stearns, beth"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "61": {
+    "questionId": 61,
+    "true_answers": [
+      "sunderraman, rajshekhar"
+    ],
+    "predicted_answer": [
+      "sunderraman, rajshekhar (author)",
+      "sunderraman, raishekhar",
+      "sunderraman, rajshekhar",
+      "rajshekhar sun",
+      "rajshekhar sunderraman"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "62": {
+    "questionId": 62,
+    "true_answers": [
+      "lauesen, soren"
+    ],
+    "predicted_answer": [
+      "lauesen, soren",
+      "soren lauesen"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "63": {
+    "questionId": 63,
+    "true_answers": [
+      "brundage, michael"
+    ],
+    "predicted_answer": [
+      "brundage, michael",
+      "brundage, michael (author)",
+      "brundage",
+      "michael brundage"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "65": {
+    "questionId": 65,
+    "true_answers": [
+      "naik, dilip c."
+    ],
+    "predicted_answer": [
+      "dilip c. naik, dilip naik",
+      "naik, dilip c.",
+      "naik, dilip",
+      "naik, dilip c",
+      "dilip naik"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "66": {
+    "questionId": 66,
+    "true_answers": [
+      "rozanski, nick",
+      "woods, eoin"
+    ],
+    "predicted_answer": [
+      "rozanski, nick (author) woods, esin (author) woods, esin (joint author)",
+      "rozanski, nick",
+      "rozanski, nick woods, eoin",
+      "rozanski, nick/ woods, eoin",
+      "rozanski/woods",
+      "rozanski, nick, woods, e?in",
+      "nick rozanski, e&oacute;in woods",
+      "nick rozanski"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  "67": {
+    "questionId": 67,
+    "true_answers": [
+      "stroustrup, bjarne"
+    ],
+    "predicted_answer": [
+      "bjarne stroustrup",
+      "stroustrup, bjarne",
+      "stroustrup, bjarne (author)"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "68": {
+    "questionId": 68,
+    "true_answers": [
+      "abrahams, paul w.",
+      "larson, bruce r."
+    ],
+    "predicted_answer": [
+      "paul w. abrahams, bruce r. larson",
+      "abrahams, paul w.",
+      "abrahams, paul w./ larson, bruce r.",
+      "paul w. abrahams bruce r. larson",
+      "abrahams &amp; larson",
+      "abrahams, paul"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "69": {
+    "questionId": 69,
+    "true_answers": [
+      "stevens, w. richard",
+      "wright, gary r."
+    ],
+    "predicted_answer": [
+      "stevens, w. richard",
+      "stevens, w. richard (author) wright, gary r. (joint author)",
+      "w. richard stevens",
+      "w. richard stevens, gary wright",
+      "w.richard stevens"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "70": {
+    "questionId": 70,
+    "true_answers": [
+      "rucker, rudy"
+    ],
+    "predicted_answer": [
+      "rudy rucker",
+      "rucker, rudy v. b.",
+      "rucker, rudy (san jose state university, usa)",
+      "rucker, rudy",
+      "rucker, rudy von b."
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "71": {
+    "questionId": 71,
+    "true_answers": [
+      "park, jack",
+      "hunting, sam"
+    ],
+    "predicted_answer": [
+      "park, jack, hunting, sam",
+      "jack park",
+      "park, jack",
+      "park, jack (edt)/ hunting, sam (edt)",
+      "park, jack (editor) hunting, sam (editor) engelbart, douglas c. (foreword by)",
+      "jack park, sam hunting"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "72": {
+    "questionId": 72,
+    "true_answers": [
+      "pattison, ted",
+      "hummel, joe"
+    ],
+    "predicted_answer": [
+      "pattison, ted/ hummel, joe",
+      "ted pattison",
+      "pattison, ted, hummel, joe",
+      "pattison, ted (author) hummel, joe (with) balena, francesco (foreword by)",
+      "ted pattison, joe hummel",
+      "pattison, ted"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "73": {
+    "questionId": 73,
+    "true_answers": [
+      "smith, connie u.",
+      "williams, lloyd g."
+    ],
+    "predicted_answer": [
+      "smith, connie u., williams, lloyd g.",
+      "connie u. smith",
+      "smith, connie u.",
+      "connie u. smith lloyd g. williams connie smith lloyd williams"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "74": {
+    "questionId": 74,
+    "true_answers": [
+      "lewis, jonathan"
+    ],
+    "predicted_answer": [
+      "jonathan lewis",
+      "lewis, jonathan"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "75": {
+    "questionId": 75,
+    "true_answers": [
+      "carroll, john m."
+    ],
+    "predicted_answer": [
+      "carroll, john m. (edt)",
+      "carroll, john m.",
+      "john m. carroll"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "76": {
+    "questionId": 76,
+    "true_answers": [
+      "huston, stephen d.",
+      "johnson, james ce",
+      "syyid, umar"
+    ],
+    "predicted_answer": [
+      "paul becker stephen d. huston john fuller james ce johnson",
+      "huston, stephen d",
+      "huston, stephen d./ johnson, james c. e./ syyid, umar",
+      "huston, stephen d., johnson, james ce, syyid, umar",
+      "stephen d. huston",
+      "huston stephen d. et al",
+      "huston, stephen d. johnson, james syyid, umar",
+      "huston, stephen d."
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "77": {
+    "questionId": 77,
+    "true_answers": [
+      "rector, brent e.",
+      "newcomer, joseph m."
+    ],
+    "predicted_answer": [
+      "brent e. rector, joseph m. newcomer",
+      "brent e. rector",
+      "brent e. rector joseph m. newcomer",
+      "rector brent &amp; newcomer joseph"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "78": {
+    "questionId": 78,
+    "true_answers": [
+      "feuer, alan r."
+    ],
+    "predicted_answer": [
+      "alan r. feuer",
+      "feuer, alan r."
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "79": {
+    "questionId": 79,
+    "true_answers": [
+      "armour, frank",
+      "miller, granville"
+    ],
+    "predicted_answer": [
+      "armour, frank",
+      "armour, frank miller, granville",
+      "armour, frank/ miller, granville",
+      "armour, frank (adjunct professor, george mason university, usa)",
+      "frank armour, granville miller",
+      "armour, frank, miller, granville",
+      "frank armour"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "80": {
+    "questionId": 80,
+    "true_answers": [
+      "winston, patrick henry"
+    ],
+    "predicted_answer": [
+      "winston, patrick henry",
+      "winston",
+      "winston, patrick",
+      "patrick henry winston",
+      "winston, patrick h",
+      "winston, patrick (author)"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "81": {
+    "questionId": 81,
+    "true_answers": [
+      "stroustrup, bjarne"
+    ],
+    "predicted_answer": [
+      "bjarne stroustrup",
+      "stroustrup, bjarne"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "82": {
+    "questionId": 82,
+    "true_answers": [
+      "campbell, dave",
+      "campbell, mary"
+    ],
+    "predicted_answer": [
+      "campbell, dave",
+      "campbell, dave r.",
+      "campbell, dave, campbell, mary",
+      "campbell, david r./ campbell, mary",
+      "mary campbell",
+      "campbell, d",
+      "campbell, dave (author) campbell, mary v. (with) campbell, david r. (author)",
+      "dave campbell"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "83": {
+    "questionId": 83,
+    "true_answers": [
+      "sedgewick, robert",
+      "flajolet, philippe"
+    ],
+    "predicted_answer": [
+      "robert sedgewick",
+      "sedgewick, robert"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "84": {
+    "questionId": 84,
+    "true_answers": [
+      "musser, david r.",
+      "derge, gillmer j.",
+      "saini, atul"
+    ],
+    "predicted_answer": [
+      "david r. musser",
+      "musser, david r. saini, atul derge, gillmer j.",
+      "musser, david r. saini, atul derge, gillmer j. editor: gillmer, j.derge",
+      "musser, david r., derge, gillmer j., saini, atul",
+      "musser, david r.",
+      "david r. musser, et al",
+      "musser, david r.; (gillmer, j.derge - ed.)",
+      "musser, david r./ derge, gillmer j./ saini, atul"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "85": {
+    "questionId": 85,
+    "true_answers": [
+      "bloch, joshua"
+    ],
+    "predicted_answer": [
+      "joshua bloch",
+      "bloch, joshua (author) steele, guy l., jr. (foreword by) bloch, josh (author)",
+      "josh bloch",
+      "bloch, joshua",
+      "bloch, josh",
+      "bloch joshua"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "86": {
+    "questionId": 86,
+    "true_answers": [
+      "maclennan, bruce j."
+    ],
+    "predicted_answer": [
+      "bruce j. maclennan"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "87": {
+    "questionId": 87,
+    "true_answers": [
+      "dann, wanda p.",
+      "cooper, stephen",
+      "pausch, randy"
+    ],
+    "predicted_answer": [
+      "dann, wanda p",
+      "dann, wanda p., cooper, stephen, pausch, randy",
+      "dann, wanda p./ cooper, stephen/ pausch, randy",
+      "dann, wanda p. (author) cooper, stephen (author) pausch, randy (author)",
+      "dann, wanda p.brcooper, stephenbrpausch, randy",
+      "wanda p. dann, et al",
+      "dann, wanda p."
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "88": {
+    "questionId": 88,
+    "true_answers": [
+      "geary, david",
+      "horstmann, cay"
+    ],
+    "predicted_answer": [
+      "geary, david",
+      "david geary cay horstmann",
+      "geary, david m./ horstmann, cay s.",
+      "geary, david horstmann, cay s.",
+      "david geary",
+      "cay s. horstmann",
+      "geary, david, horstmann, cay",
+      "geary, david horstmann, cay (san jose state university, californ",
+      "geary, david (author) horstmann, cay s. (author)",
+      "geary david, horstmann cay"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "89": {
+    "questionId": 89,
+    "true_answers": [
+      "rubinstein, moshe f.",
+      "firstenberg, iris r."
+    ],
+    "predicted_answer": [
+      "moshe f. rubinstein",
+      "rubinstein, moshe f., firstenberg, iris r."
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "90": {
+    "questionId": 90,
+    "true_answers": [
+      "bohl, marilyn",
+      "rynn, maria"
+    ],
+    "predicted_answer": [
+      "marilyn bohl",
+      "bohl, marilyn/ rynn, maria",
+      "bohl, marilyn",
+      "marilyn bohl, maria rynn",
+      "bohl, marilyn, rynn, maria"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "91": {
+    "questionId": 91,
+    "true_answers": [
+      "shaffer, clifford a."
+    ],
+    "predicted_answer": [
+      "clifford a. shaffer",
+      "shaffer, clifford a",
+      "shaffer, clifford a."
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "92": {
+    "questionId": 92,
+    "true_answers": [
+      "simsion, graeme c.",
+      "witt, graham c."
+    ],
+    "predicted_answer": [
+      "by (author) simsion, graeme by (author) witt, graham",
+      "simsion,graeme; witt,graham",
+      "graeme simsion, graham witt",
+      "simsion, graeme",
+      "simsion, graeme c./ witt, graham c.",
+      "simsion, graeme c"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "93": {
+    "questionId": 93,
+    "true_answers": [
+      "lientz, bennet p.",
+      "rea, kathryn p."
+    ],
+    "predicted_answer": [
+      "lientz, bennet",
+      "lientz, bennet p.",
+      "lientz,bennet",
+      "bennet p. lientz, kathryn p. rea",
+      "lientz, bennet p. (author) rea, kathryn p. (joint author)",
+      "lientz, bennet p./ rea, kathryn p.",
+      "bennet p. lientz"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "94": {
+    "questionId": 94,
+    "true_answers": [
+      "hornick, mark f.",
+      "marcade, erik",
+      "venkayala, sunil"
+    ],
+    "predicted_answer": [
+      "hornick, mark f./ marcade, erik/ venkayala, sunil",
+      "hornick, mark f. marcade, erik venkayala, sunil",
+      "hornick, mark f. marcade, erik",
+      "hornick, mark f",
+      "hornick, mark f."
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "95": {
+    "questionId": 95,
+    "true_answers": [
+      "eberly, david h."
+    ],
+    "predicted_answer": [
+      "david h. eberly",
+      "eberly, david h.",
+      "by (author) eberly, david h.",
+      "eberly, david"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "96": {
+    "questionId": 96,
+    "true_answers": [
+      "celko, joe"
+    ],
+    "predicted_answer": [
+      "celko,joe",
+      "joe celko",
+      "celko, joe",
+      "by (author) celko, joe"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "97": {
+    "questionId": 97,
+    "true_answers": [
+      "aiken, peter",
+      "allen, m. david"
+    ],
+    "predicted_answer": [
+      "aiken, peter/ allen, david m.",
+      "peter aiken",
+      "aiken, peter allen, m.d.",
+      "allen, m. david",
+      "aiken, peter",
+      "peter aiken, m. david allen",
+      "aiken,peter; allen,m. david"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "98": {
+    "questionId": 98,
+    "true_answers": [
+      "cheek, matthew"
+    ],
+    "predicted_answer": [
+      "cheek, matthew",
+      "matthew cheek"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "99": {
+    "questionId": 99,
+    "true_answers": [
+      "moore, martin",
+      "hancock, steven"
+    ],
+    "predicted_answer": [
+      "moore, martin alan",
+      "moore, martin",
+      "moore",
+      "moore, martin (author) hancock, steven (author) hancock, steve (joint author)",
+      "martin moore, steven hancock",
+      "moore, martin l./ hancock, steven",
+      "moore, martin l"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  }
+}

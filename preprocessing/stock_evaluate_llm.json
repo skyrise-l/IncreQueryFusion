@@ -1,0 +1,2930 @@
+{
+  "0": {
+    "questionId": 0,
+    "true_answers": [
+      "$ 335.95"
+    ],
+    "predicted_answer": [
+      "$335.95",
+      "335.9500",
+      "323",
+      "open: 335.95",
+      "335.95",
+      335.95,
+      335.94,
+      "$ 335.95",
+      "335.950",
+      "335.94"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "1": {
+    "questionId": 1,
+    "true_answers": [
+      "$ 31.33"
+    ],
+    "predicted_answer": [
+      "31.35",
+      "30.52",
+      "31.330",
+      "$ 31.33",
+      "31.3300",
+      "open: 31.33",
+      "$31.33",
+      31.33,
+      31.35,
+      "31.33"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "2": {
+    "questionId": 2,
+    "true_answers": [
+      "$ 52.56"
+    ],
+    "predicted_answer": [
+      "46.34",
+      "open: 52.56",
+      "52.56",
+      "52.5600",
+      "52.560",
+      52.56,
+      52.6,
+      "$52.56",
+      "52.60",
+      "$ 52.56"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  "3": {
+    "questionId": 3,
+    "true_answers": [
+      "$ 38.60"
+    ],
+    "predicted_answer": [
+      "38.54",
+      "$38.60",
+      "$ 38.60",
+      38.6,
+      "38.600",
+      38.54,
+      "open: 38.60",
+      "38.60",
+      "38.71",
+      "38.6000"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "4": {
+    "questionId": 4,
+    "true_answers": [
+      "$ 31.37"
+    ],
+    "predicted_answer": [
+      "$ 31.37",
+      "$31.37",
+      "31.37",
+      "47.56",
+      "open: 31.37",
+      "31.370",
+      "31.3700",
+      31.37
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "5": {
+    "questionId": 5,
+    "true_answers": [
+      "$ 46.44"
+    ],
+    "predicted_answer": [
+      "open: 46.44",
+      "$ 46.44",
+      46.38,
+      46.44,
+      "46.4400",
+      "$46.44",
+      "46.440",
+      "46.44",
+      "35.95",
+      "46.38"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "6": {
+    "questionId": 6,
+    "true_answers": [
+      "$ 46.91"
+    ],
+    "predicted_answer": [
+      "$46.91",
+      "$ 46.91",
+      "open: 46.91",
+      "46.91",
+      46.92,
+      46.91,
+      "46.9100",
+      "80.69",
+      "46.910"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "7": {
+    "questionId": 7,
+    "true_answers": [
+      "$ 13.01"
+    ],
+    "predicted_answer": [
+      "open: 13.01",
+      "$ 13.01",
+      "13.0100",
+      13.01,
+      13.04,
+      "13.04",
+      "13.01",
+      "13.010",
+      "14.13",
+      "$13.01"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "8": {
+    "questionId": 8,
+    "true_answers": [
+      "$ 58.44"
+    ],
+    "predicted_answer": [
+      "58.440",
+      "open: 58.44",
+      "55.47",
+      58.33,
+      "$ 58.44",
+      "$58.44",
+      "58.4400",
+      58.44,
+      "58.31",
+      "58.44"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "9": {
+    "questionId": 9,
+    "true_answers": [
+      "$ 205.55"
+    ],
+    "predicted_answer": [
+      "181.96",
+      205.16,
+      205.55,
+      "$ 205.55",
+      "open: 205.55",
+      "205.55",
+      "$205.55",
+      "205.16",
+      "205.5500",
+      "205.550"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "10": {
+    "questionId": 10,
+    "true_answers": [
+      "$ 45.98"
+    ],
+    "predicted_answer": [
+      "$45.98",
+      "39.76",
+      "45.98",
+      45.98,
+      45.77,
+      "45.980",
+      "open: 45.98",
+      "$ 45.98",
+      "45.9800",
+      "45.77"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "11": {
+    "questionId": 11,
+    "true_answers": [
+      "$ 11.71"
+    ],
+    "predicted_answer": [
+      "11.710",
+      11.71,
+      11.75,
+      "11.75",
+      "open: 11.71",
+      "$ 11.71",
+      "11.71",
+      "$11.71",
+      "11.7100",
+      "12.57"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "12": {
+    "questionId": 12,
+    "true_answers": [
+      "$ 58.48"
+    ],
+    "predicted_answer": [
+      "58.480",
+      "open: 58.48",
+      "58.4800",
+      "58.48",
+      "$ 58.48",
+      "49.33",
+      "$58.48",
+      58.48
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "13": {
+    "questionId": 13,
+    "true_answers": [
+      "$ 139.44"
+    ],
+    "predicted_answer": [
+      "139.440",
+      "139.4400",
+      "139.43",
+      139.44,
+      "$ 139.44",
+      "$139.44",
+      139.43,
+      "open: 139.44",
+      "98",
+      "139.44"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  "14": {
+    "questionId": 14,
+    "true_answers": [
+      "$ 107.35"
+    ],
+    "predicted_answer": [
+      "66.83",
+      107.35,
+      107.13,
+      "$107.35",
+      "$ 107.35",
+      "107.3500",
+      "107.350",
+      "107.13",
+      "open: 107.35",
+      "107.35"
+    ],
+    "predict": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "15": {
+    "questionId": 15,
+    "true_answers": [
+      "$ 54.84"
+    ],
+    "predicted_answer": [
+      "54.84",
+      "open: 54.84",
+      "54.8400",
+      "47.6",
+      "54.94",
+      "$ 54.84",
+      "$54.84",
+      54.94,
+      54.84,
+      "54.840"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "16": {
+    "questionId": 16,
+    "true_answers": [
+      "$ 33.82"
+    ],
+    "predicted_answer": [
+      "$33.82",
+      33.82,
+      33.8,
+      "33.820",
+      "43.71",
+      "open: 33.82",
+      "33.80",
+      "33.8200",
+      "$ 33.82",
+      "33.82"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "17": {
+    "questionId": 17,
+    "true_answers": [
+      "$ 22.87"
+    ],
+    "predicted_answer": [
+      "22.87",
+      "$22.87",
+      "24.5",
+      "open: 22.87",
+      "22.870",
+      "22.8700",
+      "22.90",
+      22.87,
+      "$ 22.87"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "18": {
+    "questionId": 18,
+    "true_answers": [
+      "$ 60.75"
+    ],
+    "predicted_answer": [
+      "60.750",
+      "60.7500",
+      "60.75",
+      "$60.75",
+      "$ 60.75",
+      "59.52",
+      60.75,
+      "open: 60.75"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "19": {
+    "questionId": 19,
+    "true_answers": [
+      "$ 61.36"
+    ],
+    "predicted_answer": [
+      "$61.36",
+      "61.36",
+      "61.3600",
+      "61.360",
+      "$ 61.36",
+      "open: 61.36",
+      "95.6",
+      61.36
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "20": {
+    "questionId": 20,
+    "true_answers": [
+      "$ 56.64"
+    ],
+    "predicted_answer": [
+      "56.640",
+      "$56.64",
+      "open: 56.64",
+      "56.64",
+      "45.99",
+      "$ 56.64",
+      56.64,
+      "56.65",
+      56.65,
+      "56.6400"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  "21": {
+    "questionId": 21,
+    "true_answers": [
+      "$ 79.10"
+    ],
+    "predicted_answer": [
+      "79.10",
+      "$79.10",
+      "79.100",
+      "79.1000",
+      79.1,
+      "open: 79.10",
+      "$ 79.10",
+      "79.92"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "22": {
+    "questionId": 22,
+    "true_answers": [
+      "$ 25.30"
+    ],
+    "predicted_answer": [
+      "25.3000",
+      "25.31",
+      "$25.30",
+      "25.300",
+      "$ 25.30",
+      "25.30",
+      "open: 25.30",
+      25.3,
+      "22.03",
+      25.31
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "23": {
+    "questionId": 23,
+    "true_answers": [
+      "$ 81.50"
+    ],
+    "predicted_answer": [
+      "81.5000",
+      "$81.50",
+      "72.69",
+      81.51,
+      81.5,
+      "81.50",
+      "$ 81.50",
+      "open: 81.50",
+      "81.51",
+      "81.500"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "24": {
+    "questionId": 24,
+    "true_answers": [
+      "$ 15.65"
+    ],
+    "predicted_answer": [
+      "15.6300",
+      "$15.65",
+      "15.61",
+      "20.23",
+      "$15.63",
+      15.63,
+      15.61,
+      "$ 15.65",
+      "open: 15.63",
+      "15.63",
+      "15.630"
+    ],
+    "predict": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "25": {
+    "questionId": 25,
+    "true_answers": [
+      "$ 43.24"
+    ],
+    "predicted_answer": [
+      "open: 43.24",
+      "$43.24",
+      "43.2400",
+      "43.240",
+      "$ 43.24",
+      43.16,
+      43.24,
+      "43.16",
+      "41.34",
+      "43.24"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  "26": {
+    "questionId": 26,
+    "true_answers": [
+      "$ 73.48"
+    ],
+    "predicted_answer": [
+      "73.480",
+      73.48,
+      73.65,
+      "open: 73.48",
+      "73.76",
+      "73.65",
+      "$ 73.48",
+      "$73.48",
+      "73.4800",
+      "73.48"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "27": {
+    "questionId": 27,
+    "true_answers": [
+      "$ 80.31"
+    ],
+    "predicted_answer": [
+      "80.3100",
+      "80.31",
+      "80.310",
+      "$80.31",
+      "$ 80.31",
+      80.31,
+      "open: 80.31",
+      "80.18",
+      "68.24"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "28": {
+    "questionId": 28,
+    "true_answers": [
+      "$ 16.70"
+    ],
+    "predicted_answer": [
+      "16.700",
+      16.7,
+      "$16.70",
+      "16.70",
+      "$ 16.70",
+      16.68,
+      "13.59",
+      "16.68",
+      "open: 16.70",
+      "16.7000"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "29": {
+    "questionId": 29,
+    "true_answers": [
+      "$ 67.02"
+    ],
+    "predicted_answer": [
+      "67.02",
+      66.89,
+      67.02,
+      "open: 67.02",
+      "$ 67.02",
+      "67.020",
+      "$67.02",
+      "67.0200",
+      "66.89",
+      "56.53"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "30": {
+    "questionId": 30,
+    "true_answers": [
+      "$ 51.11"
+    ],
+    "predicted_answer": [
+      "open: 51.11",
+      "51.11",
+      "$ 51.11",
+      "51.1100",
+      50.96,
+      51.11,
+      "$51.11",
+      "40.1",
+      "51.110",
+      "50.96"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  "31": {
+    "questionId": 31,
+    "true_answers": [
+      "$ 32.22"
+    ],
+    "predicted_answer": [
+      32.26,
+      32.22,
+      "$32.26",
+      "$32.22",
+      "32.260",
+      "open: 32.26",
+      "28.06",
+      "32.26",
+      "32.2600",
+      "$ 32.22"
+    ],
+    "predict": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "32": {
+    "questionId": 32,
+    "true_answers": [
+      "$ 23.57"
+    ],
+    "predicted_answer": [
+      "$23.57",
+      "open: 23.57",
+      "$ 23.57",
+      "16.59",
+      "23.570",
+      "23.5700",
+      "23.57",
+      23.42,
+      "23.42",
+      23.57
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  "33": {
+    "questionId": 33,
+    "true_answers": [
+      "$ 54.08"
+    ],
+    "predicted_answer": [
+      "54.080",
+      "54.07",
+      "54.08",
+      "open: 54.08",
+      "$ 54.08",
+      "54.0800",
+      "$54.08",
+      53.99,
+      54.08,
+      "53.99"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  "34": {
+    "questionId": 34,
+    "true_answers": [
+      "$ 51.21"
+    ],
+    "predicted_answer": [
+      "51.19",
+      "$51.21",
+      "$ 51.21",
+      "54.68",
+      "51.2100",
+      "open: 51.21",
+      51.21,
+      51.19,
+      "51.21",
+      "51.210"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "35": {
+    "questionId": 35,
+    "true_answers": [
+      "$ 28.96"
+    ],
+    "predicted_answer": [
+      "$ 28.96",
+      "25.31",
+      "28.960",
+      "28.96",
+      "open: 28.96",
+      28.89,
+      "28.9600",
+      "28.89",
+      "$28.96",
+      28.96
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "36": {
+    "questionId": 36,
+    "true_answers": [
+      "$ 36.04"
+    ],
+    "predicted_answer": [
+      36.09,
+      36.04,
+      "open: 36.04",
+      "36.09",
+      "36.040",
+      "36.0400",
+      "36.04",
+      "60.01",
+      "$ 36.04",
+      "$36.04"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "37": {
+    "questionId": 37,
+    "true_answers": [
+      "$ 110.83"
+    ],
+    "predicted_answer": [
+      "132.35",
+      "$110.83",
+      "$ 110.83",
+      110.83,
+      "110.830",
+      "110.8300",
+      "110.83",
+      "open: 110.83"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "38": {
+    "questionId": 38,
+    "true_answers": [
+      "$ 62.77"
+    ],
+    "predicted_answer": [
+      "62.770",
+      62.76,
+      "$62.77",
+      "$ 62.77",
+      "open: 62.77",
+      "59.12",
+      "62.7700",
+      "62.76",
+      62.77,
+      "62.77"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "39": {
+    "questionId": 39,
+    "true_answers": [
+      "$ 6.45"
+    ],
+    "predicted_answer": [
+      "6.450",
+      "open: 6.45",
+      "$ 6.45",
+      6.44,
+      6.45,
+      "7.81",
+      "6.44",
+      "$6.45",
+      "6.45",
+      "6.4500"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "40": {
+    "questionId": 40,
+    "true_answers": [
+      "$ 33.58"
+    ],
+    "predicted_answer": [
+      33.43,
+      33.58,
+      "33.58",
+      "$33.58",
+      "33.580",
+      "33.5800",
+      "$ 33.58",
+      "33.43",
+      "open: 33.58",
+      "29.96",
+      "33.53"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "41": {
+    "questionId": 41,
+    "true_answers": [
+      "$ 130.66"
+    ],
+    "predicted_answer": [
+      130.66,
+      "130.74",
+      "open: 130.66",
+      "130.6600",
+      "$130.66",
+      "$ 130.66",
+      "130.660",
+      "130.66"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "42": {
+    "questionId": 42,
+    "true_answers": [
+      "$ 41.44"
+    ],
+    "predicted_answer": [
+      "41.4400",
+      "open: 41.44",
+      41.44,
+      "$41.44",
+      "41.440",
+      "41.44",
+      "41.38",
+      "$ 41.44",
+      "36.19"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  "43": {
+    "questionId": 43,
+    "true_answers": [
+      "$ 89.61"
+    ],
+    "predicted_answer": [
+      "89.6100",
+      "open: 89.61",
+      "89.610",
+      "$89.61",
+      89.61,
+      "32.78",
+      "89.61",
+      "$ 89.61"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "44": {
+    "questionId": 44,
+    "true_answers": [
+      "$ 506.74"
+    ],
+    "predicted_answer": [
+      "506.7400",
+      "506.740",
+      "506.56",
+      "506.74",
+      506.56,
+      "$506.74",
+      506.74,
+      "$ 506.74",
+      "open: 506.74",
+      "596.74"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "45": {
+    "questionId": 45,
+    "true_answers": [
+      "$ 33.12"
+    ],
+    "predicted_answer": [
+      "33.1200",
+      33.12,
+      33.2,
+      "33.20",
+      "33.120",
+      "33.12",
+      "$33.12",
+      "open: 33.12",
+      "30.87",
+      "$ 33.12"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "46": {
+    "questionId": 46,
+    "true_answers": [
+      "$ 36.55"
+    ],
+    "predicted_answer": [
+      "36.550",
+      36.55,
+      36.54,
+      "36.55",
+      "$36.55",
+      "42.22",
+      "36.5500",
+      "open: 36.55"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "47": {
+    "questionId": 47,
+    "true_answers": [
+      "$ 71.73"
+    ],
+    "predicted_answer": [
+      "71.730",
+      "62.16",
+      "71.7300",
+      71.73,
+      "71.73",
+      "$71.73",
+      "$ 71.73",
+      "open: 71.73"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "48": {
+    "questionId": 48,
+    "true_answers": [
+      "$ 75.16"
+    ],
+    "predicted_answer": [
+      "$ 75.16",
+      "75.1600",
+      75.16,
+      "$75.16",
+      75.31,
+      "75.16",
+      "75.31",
+      "75.160",
+      "open: 75.16",
+      "64.03"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "49": {
+    "questionId": 49,
+    "true_answers": [
+      "$ 65.60"
+    ],
+    "predicted_answer": [
+      65.6,
+      65.625,
+      "65.61",
+      "76.15",
+      "65.6000",
+      "$65.60",
+      "65.63",
+      "open: 65.60",
+      "65.60",
+      "$ 65.60",
+      "65.600"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "50": {
+    "questionId": 50,
+    "true_answers": [
+      "$ 22.25"
+    ],
+    "predicted_answer": [
+      "$22.25",
+      "$ 22.25",
+      "open: 22.21",
+      "22.21",
+      "21.03",
+      "22.210",
+      "22.24",
+      22.24,
+      22.21,
+      "$22.21",
+      "22.2100"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "51": {
+    "questionId": 51,
+    "true_answers": [
+      "$ 51.97"
+    ],
+    "predicted_answer": [
+      "51.97",
+      "$ 51.97",
+      "open: 51.97",
+      51.97,
+      "$51.97",
+      "51.970",
+      "49.44",
+      51.78,
+      "51.9700"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  "52": {
+    "questionId": 52,
+    "true_answers": [
+      "$ 373.25"
+    ],
+    "predicted_answer": [
+      "open: 373.25",
+      "373.250",
+      "256.91",
+      "$ 373.25",
+      "372.15",
+      "373.25",
+      "373.2500",
+      373.25,
+      372.1,
+      "372.10",
+      "$373.25"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  "53": {
+    "questionId": 53,
+    "true_answers": [
+      "$ 94.68"
+    ],
+    "predicted_answer": [
+      94.89,
+      94.68,
+      "$94.68",
+      "94.950",
+      "94.9500",
+      "$ 94.68",
+      "open: 94.95",
+      "$94.95",
+      "94.95",
+      "87",
+      "94.89",
+      94.95
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "54": {
+    "questionId": 54,
+    "true_answers": [
+      "$ 40.53"
+    ],
+    "predicted_answer": [
+      "40.5300",
+      "$ 40.53",
+      40.53,
+      40.5,
+      "40.53",
+      "$40.53",
+      "open: 40.53",
+      "39.14",
+      "40.530",
+      "40.50"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  "55": {
+    "questionId": 55,
+    "true_answers": [
+      "$ 52.24"
+    ],
+    "predicted_answer": [
+      "$52.24",
+      "55.6",
+      "52.2400",
+      "52.240",
+      52.24,
+      "52.24",
+      "open: 52.24",
+      "$ 52.24"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "56": {
+    "questionId": 56,
+    "true_answers": [
+      "$ 16.78"
+    ],
+    "predicted_answer": [
+      "$ 16.78",
+      "16.780",
+      "open: 16.78",
+      "15.6",
+      "16.78",
+      16.78,
+      "16.7800",
+      "$16.78"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "57": {
+    "questionId": 57,
+    "true_answers": [
+      "$ 33.09"
+    ],
+    "predicted_answer": [
+      33.09,
+      33.1,
+      "open: 33.09",
+      "33.0900",
+      "33.090",
+      "$ 33.09",
+      "33.09",
+      "$33.09",
+      "34.79",
+      "33.10"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "58": {
+    "questionId": 58,
+    "true_answers": [
+      "$ 44.32"
+    ],
+    "predicted_answer": [
+      "44.3200",
+      "$ 44.32",
+      "open: 44.32",
+      "52.22",
+      44.32,
+      44.39,
+      "44.39",
+      "44.320",
+      "44.32",
+      "$44.32"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "59": {
+    "questionId": 59,
+    "true_answers": [
+      "$ 27.55"
+    ],
+    "predicted_answer": [
+      "$ 27.55",
+      "open: 27.55",
+      27.52,
+      "25.59",
+      "27.550",
+      "27.49",
+      "27.55",
+      "27.5500",
+      "27.52",
+      27.55,
+      "$27.55"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "60": {
+    "questionId": 60,
+    "true_answers": [
+      "$ 37.98"
+    ],
+    "predicted_answer": [
+      "37.980",
+      "37.98",
+      37.98,
+      "37.9800",
+      "open: 37.98",
+      "$37.98",
+      "34.39",
+      "$ 37.98"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "61": {
+    "questionId": 61,
+    "true_answers": [
+      "$ 14.79"
+    ],
+    "predicted_answer": [
+      "14.81",
+      "14.7900",
+      "14.76",
+      "open: 14.79",
+      "$14.79",
+      "14.790",
+      14.79,
+      14.76,
+      "14.79",
+      "18.36",
+      "$ 14.79"
+    ],
+    "predict": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  "62": {
+    "questionId": 62,
+    "true_answers": [
+      "$ 25.95"
+    ],
+    "predicted_answer": [
+      "$25.93",
+      "27.8",
+      "$ 25.95",
+      "open: 25.93",
+      "25.930",
+      "$25.95",
+      "25.95",
+      "25.9300",
+      "25.93",
+      25.93,
+      25.95
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "63": {
+    "questionId": 63,
+    "true_answers": [
+      "$ 7.46"
+    ],
+    "predicted_answer": [
+      "7.46",
+      "7.4600",
+      7.5,
+      7.46,
+      "7.48",
+      "7.91",
+      "$7.46",
+      "open: 7.46",
+      "$ 7.46",
+      "7.460",
+      "7.50"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "64": {
+    "questionId": 64,
+    "true_answers": [
+      "$ 25.56"
+    ],
+    "predicted_answer": [
+      "25.560",
+      "25.57",
+      "23.79",
+      "25.56",
+      "25.5600",
+      "25.59",
+      "$25.56",
+      "$ 25.56",
+      25.56,
+      25.57,
+      "open: 25.56"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "65": {
+    "questionId": 65,
+    "true_answers": [
+      "$ 24.67"
+    ],
+    "predicted_answer": [
+      "21.11",
+      "24.67",
+      "$ 24.67",
+      "$24.67",
+      "open: 24.67",
+      24.67,
+      "24.670",
+      "24.6700"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "66": {
+    "questionId": 66,
+    "true_answers": [
+      "$ 262.06"
+    ],
+    "predicted_answer": [
+      "$262.06",
+      "262.060",
+      "open: 262.06",
+      262.06,
+      "262.06",
+      "179.05",
+      "$ 262.06",
+      "262.0600"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "67": {
+    "questionId": 67,
+    "true_answers": [
+      "$ 42.27"
+    ],
+    "predicted_answer": [
+      "42.18",
+      42.27,
+      42.18,
+      "44.23",
+      "$42.27",
+      "42.27",
+      "42.270",
+      "42.2700",
+      "$ 42.27",
+      "open: 42.27"
+    ],
+    "predict": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "68": {
+    "questionId": 68,
+    "true_answers": [
+      "$ 53.51"
+    ],
+    "predicted_answer": [
+      "53.5100",
+      "$53.51",
+      "54.9",
+      53.51,
+      "$ 53.51",
+      "53.510",
+      "53.51",
+      "open: 53.51"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "69": {
+    "questionId": 69,
+    "true_answers": [
+      "$ 15.94"
+    ],
+    "predicted_answer": [
+      "open: 15.94",
+      "$ 15.94",
+      15.94,
+      16.0,
+      "$15.94",
+      "15",
+      "15.9400",
+      "16.00",
+      "15.940",
+      "15.94"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "70": {
+    "questionId": 70,
+    "true_answers": [
+      "$ 17.74"
+    ],
+    "predicted_answer": [
+      "17.72",
+      "17.740",
+      "open: 17.74",
+      "17.74",
+      17.74,
+      17.72,
+      "14.47",
+      "17.7400",
+      "$17.74",
+      "$ 17.74"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "71": {
+    "questionId": 71,
+    "true_answers": [
+      "$ 32.89"
+    ],
+    "predicted_answer": [
+      32.89,
+      32.85,
+      "32.85",
+      "open: 32.89",
+      "32.890",
+      "$32.89",
+      "$ 32.89",
+      "31.21",
+      "32.89",
+      "32.8900"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "72": {
+    "questionId": 72,
+    "true_answers": [
+      "$ 65.61"
+    ],
+    "predicted_answer": [
+      65.61,
+      65.71,
+      "65.61",
+      "65.80",
+      "$ 65.61",
+      "65.610",
+      "open: 65.61",
+      "$65.61",
+      "60.96",
+      "65.6100",
+      "65.71"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  "73": {
+    "questionId": 73,
+    "true_answers": [
+      "$ 30.60"
+    ],
+    "predicted_answer": [
+      "30.6000",
+      "30.600",
+      "30.92",
+      "$ 30.60",
+      "30.62",
+      "open: 30.60",
+      30.62,
+      "30.60",
+      "$30.60",
+      30.6
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "74": {
+    "questionId": 74,
+    "true_answers": [
+      "$ 51.24"
+    ],
+    "predicted_answer": [
+      "open: 51.24",
+      "$ 51.24",
+      "51.240",
+      "51.24",
+      "57.33",
+      51.24,
+      "$51.24",
+      "51.2400",
+      "50.82"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "75": {
+    "questionId": 75,
+    "true_answers": [
+      "$ 513.39"
+    ],
+    "predicted_answer": [
+      513.39,
+      "403.07",
+      "$ 513.39",
+      "513.390",
+      "513.3900",
+      "513.39",
+      "open: 513.39",
+      "$513.39"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "76": {
+    "questionId": 76,
+    "true_answers": [
+      "$ 56.79"
+    ],
+    "predicted_answer": [
+      "$ 56.79",
+      "56.7900",
+      "56.78",
+      "$56.79",
+      "56.79",
+      "49.64",
+      "open: 56.79",
+      "56.790",
+      56.79,
+      56.78
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "77": {
+    "questionId": 77,
+    "true_answers": [
+      "$ 19.14"
+    ],
+    "predicted_answer": [
+      "19.14",
+      "19.140",
+      "19.1400",
+      "open: 19.14",
+      19.17,
+      19.14,
+      "$19.14",
+      "$ 19.14",
+      "19.17",
+      "19.47"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "78": {
+    "questionId": 78,
+    "true_answers": [
+      "$ 28.72"
+    ],
+    "predicted_answer": [
+      "open: 28.72",
+      "28.71",
+      "$28.72",
+      "$ 28.72",
+      28.71,
+      "28.72",
+      "57.98",
+      "28.720",
+      28.72,
+      "28.7200"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "79": {
+    "questionId": 79,
+    "true_answers": [
+      "$ 80.37"
+    ],
+    "predicted_answer": [
+      "80.370",
+      "80.3700",
+      "$ 80.37",
+      80.37,
+      "80.37",
+      "open: 80.37",
+      "63.7",
+      "$80.37"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "80": {
+    "questionId": 80,
+    "true_answers": [
+      "$ 39.62"
+    ],
+    "predicted_answer": [
+      "$ 39.62",
+      39.62,
+      "39.620",
+      "39.6200",
+      "open: 39.62",
+      "$39.62",
+      "39.62",
+      "32.41"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "81": {
+    "questionId": 81,
+    "true_answers": [
+      "$ 71.05"
+    ],
+    "predicted_answer": [
+      "$71.05",
+      71.05,
+      71.0,
+      "71.050",
+      "$ 71.05",
+      "71.0500",
+      "71.00",
+      "open: 71.05",
+      "71.05",
+      "74"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "82": {
+    "questionId": 82,
+    "true_answers": [
+      "$ 73.54"
+    ],
+    "predicted_answer": [
+      "66.85",
+      73.54,
+      "open: 73.54",
+      "$73.54",
+      "$ 73.54",
+      "73.54",
+      "73.540",
+      "73.5400"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "83": {
+    "questionId": 83,
+    "true_answers": [
+      "$ 41.69"
+    ],
+    "predicted_answer": [
+      "41.5550",
+      41.55,
+      41.56,
+      41.555,
+      41.69,
+      "$ 41.69",
+      "41.555",
+      "50.29",
+      "$41.56",
+      "41.56",
+      "open: 41.56",
+      "41.69",
+      "$41.69"
+    ],
+    "predict": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "84": {
+    "questionId": 84,
+    "true_answers": [
+      "$ 15.89"
+    ],
+    "predicted_answer": [
+      "15.89",
+      "22.83",
+      "open: 15.89",
+      "$ 15.89",
+      "15.890",
+      "15.84",
+      15.89,
+      15.84,
+      "15.8900",
+      "$15.89"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "85": {
+    "questionId": 85,
+    "true_answers": [
+      "$ 89.56"
+    ],
+    "predicted_answer": [
+      "$ 89.56",
+      "$89.56",
+      "89.56",
+      "89.560",
+      "89.5600",
+      "81.22",
+      89.56,
+      "open: 89.56"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "86": {
+    "questionId": 86,
+    "true_answers": [
+      "$ 16.18"
+    ],
+    "predicted_answer": [
+      "14.93",
+      "$ 16.18",
+      "16.1800",
+      "16.18",
+      16.18,
+      "open: 16.18",
+      "$16.18",
+      16.06,
+      "16.180",
+      "16.06"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  "87": {
+    "questionId": 87,
+    "true_answers": [
+      "$ 19.82"
+    ],
+    "predicted_answer": [
+      "19.82",
+      "$ 19.82",
+      "19.75",
+      "19.78",
+      "19.820",
+      "19.8200",
+      "16.77",
+      19.78,
+      19.82,
+      "open: 19.82",
+      "$19.82"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "88": {
+    "questionId": 88,
+    "true_answers": [
+      "$ 48.47"
+    ],
+    "predicted_answer": [
+      "51.78",
+      "$48.47",
+      "48.46",
+      "48.470",
+      48.47,
+      48.46,
+      "open: 48.47",
+      "$ 48.47",
+      "48.42",
+      "48.4700",
+      "48.47"
+    ],
+    "predict": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "89": {
+    "questionId": 89,
+    "true_answers": [
+      "$ 28.18"
+    ],
+    "predicted_answer": [
+      "28.1800",
+      "28.180",
+      "open: 28.18",
+      "$ 28.18",
+      "$28.18",
+      "28.18",
+      "36.3",
+      28.18
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "90": {
+    "questionId": 90,
+    "true_answers": [
+      "$ 30.24"
+    ],
+    "predicted_answer": [
+      "27.14",
+      "30.240",
+      "30.24",
+      "30.2400",
+      "$ 30.24",
+      "$30.24",
+      30.24,
+      "open: 30.24"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "91": {
+    "questionId": 91,
+    "true_answers": [
+      "$ 26.42"
+    ],
+    "predicted_answer": [
+      26.41,
+      "26.1",
+      "26.4200",
+      "26.420",
+      "26.42",
+      "26.41",
+      "$ 26.42",
+      "open: 26.42",
+      26.42,
+      "$26.42"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "92": {
+    "questionId": 92,
+    "true_answers": [
+      "$ 33.37"
+    ],
+    "predicted_answer": [
+      33.37,
+      33.39,
+      "open: 33.37",
+      "32.95",
+      "33.46",
+      "$ 33.37",
+      "$33.37",
+      "33.3700",
+      "33.39",
+      "33.37",
+      "33.370"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "93": {
+    "questionId": 93,
+    "true_answers": [
+      "$ 51.49"
+    ],
+    "predicted_answer": [
+      "51.50",
+      "35.37",
+      "open: 51.49",
+      "$ 51.49",
+      "$51.49",
+      "51.490",
+      51.49,
+      51.5,
+      "51.49",
+      "51.4900"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "94": {
+    "questionId": 94,
+    "true_answers": [
+      "$ 24.10"
+    ],
+    "predicted_answer": [
+      "open: 24.10",
+      "24.12",
+      "$24.10",
+      "24.100",
+      "$ 24.10",
+      24.1,
+      24.12,
+      "24.10",
+      "22.32",
+      "24.1000"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  "95": {
+    "questionId": 95,
+    "true_answers": [
+      "$ 63.69"
+    ],
+    "predicted_answer": [
+      "63.69",
+      "06/01 3:58 pm",
+      "63.690",
+      "$24.10",
+      "$63.69",
+      "$ 63.69",
+      "63.6900",
+      "open: 63.69",
+      63.69
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "96": {
+    "questionId": 96,
+    "true_answers": [
+      "$ 144.54"
+    ],
+    "predicted_answer": [
+      "101.58",
+      "144.520",
+      "144.5200",
+      144.52,
+      "$144.52",
+      144.65,
+      "$144.54",
+      "144.65",
+      "open: 144.52",
+      "$ 144.54",
+      "144.52"
+    ],
+    "predict": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "97": {
+    "questionId": 97,
+    "true_answers": [
+      "$ 36.57"
+    ],
+    "predicted_answer": [
+      "open: 36.57",
+      36.57,
+      "36.570",
+      "29.08",
+      "36.57",
+      "36.5700",
+      "$36.57",
+      "$ 36.57"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "98": {
+    "questionId": 98,
+    "true_answers": [
+      "$ 38.19"
+    ],
+    "predicted_answer": [
+      "open: 38.19",
+      38.19,
+      38.08,
+      "38.19",
+      "38.08",
+      "$ 38.19",
+      "34.33",
+      "38.1900",
+      "$38.19",
+      "38.190"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "99": {
+    "questionId": 99,
+    "true_answers": [
+      "$ 15.07"
+    ],
+    "predicted_answer": [
+      "$15.08",
+      "15.080",
+      "15.0800",
+      15.08,
+      "$15.07",
+      "16.74",
+      "15.08",
+      "open: 15.08",
+      "$ 15.07"
+    ],
+    "predict": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  }
+}

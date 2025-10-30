@@ -1,0 +1,4123 @@
+{
+  "0": {
+    "questionId": 0,
+    "question": "Who are the directors of 100 Bloody Acres?",
+    "true_answers": [
+      "Cameron Cairnes",
+      "Colin Cairnes"
+    ],
+    "predicted_answer": [
+      "cameron cairnes, colin cairnes",
+      "christopher stack",
+      "colin cairnes;cameron cairnes",
+      "colin cairnes",
+      "cameron cairnes;colin cairnes",
+      "cameron cairnes"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "1": {
+    "questionId": 1,
+    "question": "Who are the directors of 11 Blocks?",
+    "true_answers": [
+      "Matthew Bennett",
+      "Sasha Moric"
+    ],
+    "predicted_answer": [
+      "matthew bennett",
+      "matthew bennett;sasha moric"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "2": {
+    "questionId": 2,
+    "question": "Who are the directors of 1920 London?",
+    "true_answers": [
+      "tinu Suresh Desai"
+    ],
+    "predicted_answer": [
+      "tinu suresh desai"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "3": {
+    "questionId": 3,
+    "question": "Who are the directors of 24/7 in Love?",
+    "true_answers": [
+      "John D. Lazatin",
+      "Mae Cruz-Alviar",
+      "Frasco Santos Mortiz",
+      "Dado Lumibao"
+    ],
+    "predicted_answer": [
+      "mae czarina cruz",
+      "mae czarina cruz;john-d lazatin;dado c. lumibao;frasco mortiz",
+      "antonio veljanoski"
+    ],
+    "predict": [
+      true,
+      true,
+      false
+    ]
+  },
+  "4": {
+    "questionId": 4,
+    "question": "Who are the directors of A Flying Jatt?",
+    "true_answers": [
+      "Remo"
+    ],
+    "predicted_answer": [
+      "remo",
+      "janusz majewski"
+    ],
+    "predict": [
+      true,
+      false
+    ]
+  },
+  "5": {
+    "questionId": 5,
+    "question": "Who are the directors of A Garfield Christmas Special?",
+    "true_answers": [
+      "George Singer",
+      "Phil Roman"
+    ],
+    "predicted_answer": [
+      "phil roman;george singer",
+      "phil roman",
+      "none",
+      "ivan cardoso",
+      "phil roman, george singer"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  "6": {
+    "questionId": 6,
+    "question": "Who are the directors of A Hologram for the King?",
+    "true_answers": [
+      "Tom Tykwer"
+    ],
+    "predicted_answer": [
+      "ahmed al-ibrahim, tom tykwer",
+      "tom tykwer"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "7": {
+    "questionId": 7,
+    "question": "Who are the directors of A Luz do Tom?",
+    "true_answers": [
+      "Nelson Pereira dos Santos"
+    ],
+    "predicted_answer": [
+      "nelson pereira dos santos dora jobim"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "8": {
+    "questionId": 8,
+    "question": "Who are the directors of A Monster Calls?",
+    "true_answers": [
+      "Juan Antonio Bayona"
+    ],
+    "predicted_answer": [
+      "juan antonio bayona",
+      "juan bayona",
+      "none",
+      "j.a. bayona",
+      "j. a. bayona"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "9": {
+    "questionId": 9,
+    "question": "Who are the directors of A Murder in the Park?",
+    "true_answers": [
+      "Christopher S. Rech",
+      "Brandon Kimber"
+    ],
+    "predicted_answer": [
+      "brandon kimber;christopher s. rech",
+      "christopher s. rech, brandon kimber",
+      "christopher s. rech;brandon kimber",
+      "christopher s. rech",
+      "none",
+      "shawn rech; brandon kimber; et al.",
+      "nicolas boukhrief"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  "10": {
+    "questionId": 10,
+    "question": "Who are the directors of A Night Full of Rain?",
+    "true_answers": [
+      "Lina Wertmüller"
+    ],
+    "predicted_answer": [
+      "lina wertmüller",
+      "lina wertm&#252;ller"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "11": {
+    "questionId": 11,
+    "question": "Who are the directors of A Night of Horror Volume 1?",
+    "true_answers": [
+      "Baker Bossi",
+      "Carmen Falk",
+      "Colla Nicholas",
+      "Daniel Daperis",
+      "Evan Green Randall",
+      "Goodrich Matthew",
+      "Har Justin"
+    ],
+    "predicted_answer": [
+      "bossi baker;carmen falk;daniel daperis;enzo tedeschi;evan randall green;goran spoljaric;justin harding;matthew goodrich;nicholas colla;rebecca thomson",
+      "bossi baker;nicholas colla;daniel daperis;carmen falk;matthew goodrich;evan randall green;justin harding;goran spoljaric;enzo tedeschi;rebecca thomson",
+      "enzo tedeschi",
+      "none",
+      "bossi baker; nicholas colla; et al."
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "12": {
+    "questionId": 12,
+    "question": "Who are the directors of A Stork's Journey?",
+    "true_answers": [
+      "Toby Genkel",
+      "Reza Memari"
+    ],
+    "predicted_answer": [
+      "toby genkel;reza memari",
+      "none"
+    ],
+    "predict": [
+      true,
+      false
+    ]
+  },
+  "13": {
+    "questionId": 13,
+    "question": "Who are the directors of A Summer's Tale?",
+    "true_answers": [
+      "Eric Rohmer"
+    ],
+    "predicted_answer": [
+      "eric rohmer",
+      "éric rohmer",
+      "federica gianni"
+    ],
+    "predict": [
+      true,
+      false,
+      false
+    ]
+  },
+  "14": {
+    "questionId": 14,
+    "question": "Who are the directors of A Warrior's Heart?",
+    "true_answers": [
+      "F.Sears Michael"
+    ],
+    "predicted_answer": [
+      "mike sears",
+      "michael f. sears",
+      "none",
+      "lloyd garcia"
+    ],
+    "predict": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "15": {
+    "questionId": 15,
+    "question": "Who are the directors of Abbey of Thelema?",
+    "true_answers": [
+      "J. Grimm"
+    ],
+    "predicted_answer": [
+      "vincent jennings",
+      "j. grimm;vincent jennings",
+      "none"
+    ],
+    "predict": [
+      true,
+      true,
+      false
+    ]
+  },
+  "16": {
+    "questionId": 16,
+    "question": "Who are the directors of Agent Red?",
+    "true_answers": [
+      "Damian Lee",
+      "Jim Wynorski"
+    ],
+    "predicted_answer": [
+      "damian lee, jim wynorski",
+      "damian lee",
+      "damian lee;jim wynorski"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "17": {
+    "questionId": 17,
+    "question": "Who are the directors of Airplane!?",
+    "true_answers": [
+      "Jim Abrahams",
+      "David Zucker",
+      "Jerry Zucker"
+    ],
+    "predicted_answer": [
+      "jim abrahams",
+      "none",
+      "jim abrahams;david zucker;jerry zucker",
+      "david zucker;jerry zucker;jim abrahams",
+      "jim abrahams, david zucker, jerry zucker",
+      "jerry zucker;jim abrahams;david zucker",
+      "jim abrahams & david zucker"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "18": {
+    "questionId": 18,
+    "question": "Who are the directors of All the Rivers Run?",
+    "true_answers": [
+      "George Miller",
+      "Pino Amenta"
+    ],
+    "predicted_answer": [
+      "pino amenta",
+      "john ford"
+    ],
+    "predict": [
+      true,
+      false
+    ]
+  },
+  "19": {
+    "questionId": 19,
+    "question": "Who are the directors of Almanac of Fall?",
+    "true_answers": [
+      "Béla Tarr"
+    ],
+    "predicted_answer": [
+      "béla tarr"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "20": {
+    "questionId": 20,
+    "question": "Who are the directors of Almost Home?",
+    "true_answers": [
+      "Tom Whitus",
+      "Bella Mancuso",
+      "John Lina",
+      "Erica House"
+    ],
+    "predicted_answer": [
+      "tom whitus",
+      "dekker dreyer",
+      "todd wilderman",
+      "none",
+      "hiroyuki kakudo",
+      "jesse warn",
+      "jacquie gould",
+      "ivan dixon",
+      "bj golnick",
+      "b.j. golnick",
+      "don aston"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "21": {
+    "questionId": 21,
+    "question": "Who are the directors of Altar?",
+    "true_answers": [
+      "Matthew Sconce"
+    ],
+    "predicted_answer": [
+      "remzi j&#246;nt&#252;rk",
+      "none",
+      "matt sconce",
+      "nick willing",
+      "rita azevedo gomes",
+      "remzi jöntürk",
+      "matthew sconce"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "22": {
+    "questionId": 22,
+    "question": "Who are the directors of Amazing Grace: Jeff Buckley?",
+    "true_answers": [
+      "Nyla Bialek Adams",
+      "Laurie Trombley"
+    ],
+    "predicted_answer": [
+      "laurie trombley, nyla bialek adams",
+      "laurie trombley"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "23": {
+    "questionId": 23,
+    "question": "Who are the directors of Animal Crackers?",
+    "true_answers": [
+      "Tony Bancroft",
+      "Scott Christian Sava"
+    ],
+    "predicted_answer": [
+      "tony bancroft;scott christian sava;jaime maestro",
+      "oliver refson",
+      "tony bancroft, scott christian sava, jaime maestro",
+      "corin hardy",
+      "ken bruce",
+      "tony bancroft",
+      "tony bancroft;scott christian sava",
+      "victor heerman",
+      "Michael Goguen"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "24": {
+    "questionId": 24,
+    "question": "Who are the directors of Ariel?",
+    "true_answers": [
+      "Aki Kaurismäki"
+    ],
+    "predicted_answer": [
+      "aki kaurismäki",
+      "martin scorsese;steven prince;\\n    <p class=\"\">\\n    director:\\n<a href=\"/name/nm0000217/?ref_=adv_li_dr_0\"\\n>martin scorsese",
+      "none"
+    ],
+    "predict": [
+      true,
+      false,
+      false
+    ]
+  },
+  "25": {
+    "questionId": 25,
+    "question": "Who are the directors of At the Edge of the World?",
+    "true_answers": [
+      "Dan Stone",
+      "Gambuti Jr. Patrick"
+    ],
+    "predicted_answer": [
+      "dan stone",
+      "dan stone;patrick gambuti jr."
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "26": {
+    "questionId": 26,
+    "question": "Who are the directors of Aunt Rose?",
+    "true_answers": [
+      "James Tucker"
+    ],
+    "predicted_answer": [
+      "james tucker",
+      "james adam tucker"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "27": {
+    "questionId": 27,
+    "question": "Who are the directors of Aya of Yop City?",
+    "true_answers": [
+      "Marguerite Abouet",
+      "Clement Oubrerie"
+    ],
+    "predicted_answer": [
+      "marguerite abouet",
+      "none",
+      "Marguerite Abouet;Clément Oubrerie"
+    ],
+    "predict": [
+      true,
+      false,
+      true
+    ]
+  },
+  "28": {
+    "questionId": 28,
+    "question": "Who are the directors of Bambi?",
+    "true_answers": [
+      "Algar James",
+      "Armstrong Samuel",
+      "Bill Roberts",
+      "David Hand",
+      "Graham Heid",
+      "Norman Wright",
+      "Paul Satterfield"
+    ],
+    "predicted_answer": [
+      "james algar",
+      "james algar;samuel armstrong;david hand;graham heid;bill roberts;paul satterfield;norman wright",
+      "david hand, james algar, samuel armstrong, graham heid, bill roberts, paul satterfield, norman wright",
+      "james algar;samuel armstrong",
+      "sébastien lifshitz",
+      "david hand;james algar;samuel armstrong;william roberts;paul satterfield;graham heid;norman wright",
+      "david hand",
+      "bill roberts;david hand;graham heid;james algar;norman wright;paul satterfield;samuel armstrong",
+      "louis j. horvitz",
+      "Brent Lusk"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "29": {
+    "questionId": 29,
+    "question": "Who are the directors of Bandidas?",
+    "true_answers": [
+      "Joachim Rnning",
+      "Espen Sandberg"
+    ],
+    "predicted_answer": [
+      "joachim rønning",
+      "espen sandberg;joachim rønning",
+      "joachim roenning, espen sandberg",
+      "joachim rønning;espen sandberg",
+      "joachim roenning",
+      "francisco antunez",
+      "joachim roenning; espen sandburg; et al.",
+      "joachim rønning, espen sandberg"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "30": {
+    "questionId": 30,
+    "question": "Who are the directors of Bannock?",
+    "true_answers": [
+      "Bennett Michael Weisman"
+    ],
+    "predicted_answer": [
+      "j.j. sedelmaier",
+      "mike weisman",
+      "michael bennett weisman"
+    ],
+    "predict": [
+      false,
+      false,
+      true
+    ]
+  },
+  "31": {
+    "questionId": 31,
+    "question": "Who are the directors of Barracuda?",
+    "true_answers": [
+      "Philippe Haïm"
+    ],
+    "predicted_answer": [
+      "nick hamm",
+      "ham philippe",
+      "none",
+      "renzil d'silva"
+    ],
+    "predict": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "32": {
+    "questionId": 32,
+    "question": "Who are the directors of Beautiful Accident?",
+    "true_answers": [
+      "Ding Ho Wi"
+    ],
+    "predicted_answer": [
+      "wi ho",
+      "wi ding ho"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "33": {
+    "questionId": 33,
+    "question": "Who are the directors of Beavis and Butt-Head Do America?",
+    "true_answers": [
+      "Brian Mulroney",
+      "Judge Mike",
+      "Kaplan Yvette",
+      "Mike Seve De"
+    ],
+    "predicted_answer": [
+      "mike judge; yvette kaplan; et al.",
+      "mike judge",
+      "mike judge;yvette kaplan",
+      "mike judge, yvette kaplan",
+      "b. reeves eason",
+      "mike judge;mike de seve;brian mulroney;yvette kaplan"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "34": {
+    "questionId": 34,
+    "question": "Who are the directors of Beyond Erotica?",
+    "true_answers": [
+      "José María Forqué"
+    ],
+    "predicted_answer": [
+      "josé maría forqué"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "35": {
+    "questionId": 35,
+    "question": "Who are the directors of Blinky Bill the Movie?",
+    "true_answers": [
+      "Alex Weight",
+      "Alexs Stadermann",
+      "Cleary Noel",
+      "Deane Taylor"
+    ],
+    "predicted_answer": [
+      "deane taylor;noel cleary",
+      "deane taylor;noel cleary;alexs stadermann;alex weight",
+      "deane taylor, noel cleary, alexs stadermann, alex weight",
+      "tony aloupis",
+      "alex weight;alexs stadermann;deane taylor;noel cleary",
+      "deane taylor"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "36": {
+    "questionId": 36,
+    "question": "Who are the directors of Blood on His Sword?",
+    "true_answers": [
+      "André Hunebelle"
+    ],
+    "predicted_answer": [
+      "andré hunebelle"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "37": {
+    "questionId": 37,
+    "question": "Who are the directors of Blue Is the Warmest Color?",
+    "true_answers": [
+      "Abdellatif Kechiche"
+    ],
+    "predicted_answer": [
+      "abdel kechiche",
+      "luigi russo;enzo doria",
+      "abdellatif kechiche"
+    ],
+    "predict": [
+      true,
+      false,
+      true
+    ]
+  },
+  "38": {
+    "questionId": 38,
+    "question": "Who are the directors of Born Free?",
+    "true_answers": [
+      "Hill James",
+      "Mcgowan Tom"
+    ],
+    "predicted_answer": [
+      "chris foggin",
+      "james hill;tom mcgowan",
+      "james hill",
+      "james h. hill",
+      "John Crockett;Brian McCulley;David Sharman"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "39": {
+    "questionId": 39,
+    "question": "Who are the directors of Boys Life 4: Four Play?",
+    "true_answers": [
+      "Alan Brown",
+      "Brian Sloan",
+      "Eric Mueller",
+      "J.Bartell Phillip"
+    ],
+    "predicted_answer": [
+      "phillip j. bartell, alan brown, andrew peterson, brian sloan",
+      "alan brown;brian sloan;eric mueller;phillip j. bartell",
+      "brian sloan;phillip j. bartell;alan brown"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "40": {
+    "questionId": 40,
+    "question": "Who are the directors of Buster and Billie?",
+    "true_answers": [
+      "Daniel Petrie"
+    ],
+    "predicted_answer": [
+      "daniel petrie",
+      "daniel petrie, sidney sheldon",
+      "none",
+      "Daniel Petrie;Sidney Sheldon"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "41": {
+    "questionId": 41,
+    "question": "Who are the directors of But Always?",
+    "true_answers": [
+      "Snow Zou"
+    ],
+    "predicted_answer": [
+      "snow zou"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "42": {
+    "questionId": 42,
+    "question": "Who are the directors of Cabin in the Sky?",
+    "true_answers": [
+      "Berkeley Bus",
+      "Minnelli Vincente"
+    ],
+    "predicted_answer": [
+      "vincente minnelli",
+      "vincente minnelli;busby berkeley"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "43": {
+    "questionId": 43,
+    "question": "Who are the directors of Captain Kronos: Vampire Hunter?",
+    "true_answers": [
+      "Brian Clemens"
+    ],
+    "predicted_answer": [
+      "brian clemens",
+      "not specified"
+    ],
+    "predict": [
+      true,
+      false
+    ]
+  },
+  "44": {
+    "questionId": 44,
+    "question": "Who are the directors of Cars?",
+    "true_answers": [
+      "Joe Ranft",
+      "John Lasseter"
+    ],
+    "predicted_answer": [
+      "joe ranft;john lasseter",
+      "john lasseter;joe ranft",
+      "john lasseter",
+      "john lasseter, joe ranft",
+      "natsuki isaki;sam riegel;liam o'brien",
+      "andrew cividino",
+      "robert fantinatto"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "45": {
+    "questionId": 45,
+    "question": "Who are the directors of Castaway on the Moon?",
+    "true_answers": [
+      "Hae-jun Lee"
+    ],
+    "predicted_answer": [
+      "hae-jun lee",
+      "lee hae-jun",
+      "ole bornedal",
+      "mark s. waters"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "46": {
+    "questionId": 46,
+    "question": "Who are the directors of Castle of Blood?",
+    "true_answers": [
+      "Antonio Margheriti",
+      "Corbucci Sergio"
+    ],
+    "predicted_answer": [
+      "anthony m. dawson",
+      "sergio corbucci;antonio margheriti",
+      "sergio corbucci, antonio margheriti",
+      "antonio margheriti;sergio corbucci",
+      "sergio corbucci"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "47": {
+    "questionId": 47,
+    "question": "Who are the directors of Cheeta-eh: Ganda lalake??",
+    "true_answers": [
+      "Tony Cruz",
+      "Arthur Nicdao"
+    ],
+    "predicted_answer": [
+      "tony cruz",
+      "simona oktábcová",
+      "ruben arthur nicdao;tony cruz",
+      "Tony Cruz;Ruben Arthur Nicdao"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "48": {
+    "questionId": 48,
+    "question": "Who are the directors of Closing Escrow?",
+    "true_answers": [
+      "Armen Kaprelian",
+      "Kent Llewellyn"
+    ],
+    "predicted_answer": [
+      "armen kaprelian;kent g. llewellyn",
+      "armen kaprelian, kent g. llewellyn",
+      "armen kaprelian"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "49": {
+    "questionId": 49,
+    "question": "Who are the directors of Cowboy Bebop: The Movie?",
+    "true_answers": [
+      "Hiroyuki Okiura",
+      "Okamura Tensai",
+      "Shinichir Watanabe",
+      "Takei Yoshiyuki"
+    ],
+    "predicted_answer": [
+      "shinichirô watanabe;yoshiyuki takei",
+      "hiroyuki okiura;shinichirô watanabe;tensai okamura;yoshiyuki takei",
+      "k. viswanath",
+      "shinichiro watanabe",
+      "shinichiro watanabe; hiroyuki okiura; et al.",
+      "jag mundhra;ambrish sangal",
+      "shinichir&ocirc; watanabe",
+      "shinichirô watanabe;tensai okamura;hiroyuki okiura;yoshiyuki takei",
+      "stefano landini"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "50": {
+    "questionId": 50,
+    "question": "Who are the directors of Crazy Eights?",
+    "true_answers": [
+      "Jimi Jones"
+    ],
+    "predicted_answer": [
+      "jimi jones",
+      "james koya jones",
+      "james k. jones"
+    ],
+    "predict": [
+      true,
+      false,
+      false
+    ]
+  },
+  "51": {
+    "questionId": 51,
+    "question": "Who are the directors of Crystal Fairy?",
+    "true_answers": [
+      "Sebastian Silva"
+    ],
+    "predicted_answer": [
+      "sebastian silva"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "52": {
+    "questionId": 52,
+    "question": "Who are the directors of Crystalstone?",
+    "true_answers": [
+      "Antonio Peláez"
+    ],
+    "predicted_answer": [
+      "antonio peláez"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "53": {
+    "questionId": 53,
+    "question": "Who are the directors of Dames?",
+    "true_answers": [
+      "Berkeley Bus",
+      "Enright Ray"
+    ],
+    "predicted_answer": [
+      "ray enright",
+      "ray enright, busby berkeley",
+      "ray enright;busby berkeley",
+      "bernard borderie"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "54": {
+    "questionId": 54,
+    "question": "Who are the directors of Deadgirl?",
+    "true_answers": [
+      "Marcel Sarmiento",
+      "Gadi Harel"
+    ],
+    "predicted_answer": [
+      "gadi harel;marcel sarmiento",
+      "marcel sarmiento",
+      "marcel sarmiento;gadi harel",
+      "marcel sarmiento, gadi harel"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "55": {
+    "questionId": 55,
+    "question": "Who are the directors of Def By Temptation?",
+    "true_answers": [
+      "James Bond III"
+    ],
+    "predicted_answer": [
+      "james bond iii",
+      "james bond iii\\t",
+      "josh holmes"
+    ],
+    "predict": [
+      true,
+      true,
+      false
+    ]
+  },
+  "56": {
+    "questionId": 56,
+    "question": "Who are the directors of Delhi Belly?",
+    "true_answers": [
+      "Abhinay Deo",
+      "Akshat Verma"
+    ],
+    "predicted_answer": [
+      "abhinay deo",
+      "abhinay deo;akshat verma"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "57": {
+    "questionId": 57,
+    "question": "Who are the directors of Doramundo?",
+    "true_answers": [
+      "João Batista de Andrade"
+    ],
+    "predicted_answer": [
+      "joão batista de andrade"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "58": {
+    "questionId": 58,
+    "question": "Who are the directors of Dr. Seuss' The Lorax?",
+    "true_answers": [
+      "Chris Renaud",
+      "Kyle Balda"
+    ],
+    "predicted_answer": [
+      "chris renaud;cinco paul;ken daurio",
+      "ken daurio, cinco paul, chris renaud\\t \\t",
+      "chris renaud;cinco paul;ken daurio;kyle balda"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "59": {
+    "questionId": 59,
+    "question": "Who are the directors of Dumb and Dumber?",
+    "true_answers": [
+      "Bob Farrelly",
+      "Farrelly Peter"
+    ],
+    "predicted_answer": [
+      "mark lucas",
+      "none",
+      "peter farrelly",
+      "bobby farrelly",
+      "peter farrelly, bobby farrelly",
+      "bobby farrelly;peter farrelly",
+      "peter farrelly;bobby farrelly"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "60": {
+    "questionId": 60,
+    "question": "Who are the directors of Dus Kahaniyaan?",
+    "true_answers": [
+      "Sanjay Gupta",
+      "Apoorva Lakhia",
+      "Meghna Gulzar",
+      "Rohit Roy",
+      "Hansal Mehta",
+      "Jasmeet Dhodhi"
+    ],
+    "predicted_answer": [
+      "jasmeet dhodhi;meghna gulzar;sanjay gupta;apoorva lakhia;hansal mehta;rohit roy",
+      "rohit roy",
+      "none",
+      "devendra goel"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "61": {
+    "questionId": 61,
+    "question": "Who are the directors of Earth?",
+    "true_answers": [
+      "Julio Medem"
+    ],
+    "predicted_answer": [
+      "julio medem",
+      "none"
+    ],
+    "predict": [
+      true,
+      false
+    ]
+  },
+  "62": {
+    "questionId": 62,
+    "question": "Who are the directors of Elective Affinities?",
+    "true_answers": [
+      "Paolo Taviani",
+      "Vittorio Taviani"
+    ],
+    "predicted_answer": [
+      "karel vachek",
+      "paolo taviani;vittorio taviani",
+      "paolo taviani"
+    ],
+    "predict": [
+      false,
+      true,
+      true
+    ]
+  },
+  "63": {
+    "questionId": 63,
+    "question": "Who are the directors of Felix the Cat: The Movie?",
+    "true_answers": [
+      "Tibor Hernádi"
+    ],
+    "predicted_answer": [
+      "luciano chelotti",
+      "tibor hernádi"
+    ],
+    "predict": [
+      false,
+      true
+    ]
+  },
+  "64": {
+    "questionId": 64,
+    "question": "Who are the directors of Films Confiscated from a French Brothel?",
+    "true_answers": [
+      "Salem Kapsaski",
+      "Drew Phillips",
+      "Bob Moricz",
+      "J.P. Schmidt",
+      "Gabriella Kapsaski",
+      "Craig Podmore"
+    ],
+    "predicted_answer": [
+      "drew phillips, salem kapsaski, gabriella kapsaski, jp. schmidt, bob moricz, craig podmore, jose sarmiento hinojosa",
+      "salem kapsaski",
+      "drew phillips"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "65": {
+    "questionId": 65,
+    "question": "Who are the directors of Finding Dory?",
+    "true_answers": [
+      "Andrew Stanton",
+      "Angus Maclane"
+    ],
+    "predicted_answer": [
+      "andrew stanton",
+      "andrew stanton;angus maclane",
+      "ross stevenson",
+      "andrew stanton, angus maclane"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "66": {
+    "questionId": 66,
+    "question": "Who are the directors of Fiorile?",
+    "true_answers": [
+      "Paolo Taviani",
+      "Vittorio Taviani"
+    ],
+    "predicted_answer": [
+      "paolo taviani;vittorio taviani",
+      "paolo taviani",
+      "paolo taviani, vittorio taviani"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "67": {
+    "questionId": 67,
+    "question": "Who are the directors of Fit to Be Untied?",
+    "true_answers": [
+      "Petraglia Sandro",
+      "Bellocchio Marco",
+      "Rulli Stefano",
+      "Agosti Silvano"
+    ],
+    "predicted_answer": [
+      "silvano agosti",
+      "silvano agosti, marco bellocchio, sandro petraglia, stefano rulli",
+      "sandro petraglia;stefano rulli;marco bellocchio;silvano agosti"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "68": {
+    "questionId": 68,
+    "question": "Who are the directors of Food Stamped?",
+    "true_answers": [
+      "Shira Potash",
+      "Yoav Potash"
+    ],
+    "predicted_answer": [
+      "shira potash, yoav potash",
+      "shira potash"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "69": {
+    "questionId": 69,
+    "question": "Who are the directors of Fuera de la ley?",
+    "true_answers": [
+      "León Klimovsky"
+    ],
+    "predicted_answer": [
+      "león klimovsky",
+      "none"
+    ],
+    "predict": [
+      true,
+      false
+    ]
+  },
+  "70": {
+    "questionId": 70,
+    "question": "Who are the directors of Games of Love and Chance?",
+    "true_answers": [
+      "Abdellatif Kechiche"
+    ],
+    "predicted_answer": [
+      "abdel kechiche",
+      "abdellatif kechiche",
+      "none"
+    ],
+    "predict": [
+      true,
+      true,
+      false
+    ]
+  },
+  "71": {
+    "questionId": 71,
+    "question": "Who are the directors of Garota Dourada?",
+    "true_answers": [
+      "Antonio Calmon"
+    ],
+    "predicted_answer": [
+      "antonio calmon"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "72": {
+    "questionId": 72,
+    "question": "Who are the directors of General Suvorov?",
+    "true_answers": [
+      "Mikhail Doller",
+      "Vsevolod Pudovkin"
+    ],
+    "predicted_answer": [
+      "mikhail doller",
+      "ken annakin",
+      "mikhail doller;vsevolod pudovkin",
+      "mikhail doller, vsevolod pudovkin",
+      "vsevolod pudovkin;mikhail doller"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "73": {
+    "questionId": 73,
+    "question": "Who are the directors of Gervaise?",
+    "true_answers": [
+      "René Clément"
+    ],
+    "predicted_answer": [
+      "rené clément"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "74": {
+    "questionId": 74,
+    "question": "Who are the directors of Girlfriend Boyfriend?",
+    "true_answers": [
+      "Ya-che Yang"
+    ],
+    "predicted_answer": [
+      "ya yang che"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "75": {
+    "questionId": 75,
+    "question": "Who are the directors of Gone With the Wind?",
+    "true_answers": [
+      "Cukor George",
+      "Fleming Victor",
+      "Sam Wood"
+    ],
+    "predicted_answer": [
+      "victor fleming",
+      "victor fleming, george cukor, sam wood",
+      "victor fleming;george cukor;sam wood",
+      "john pasquin",
+      "victor fleming;george cukor",
+      "george cukor;sam wood;victor fleming"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "76": {
+    "questionId": 76,
+    "question": "Who are the directors of Goodbye World?",
+    "true_answers": [
+      "Denis Hennelly"
+    ],
+    "predicted_answer": [
+      "denis hennelly",
+      "denis henry hennelly"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "77": {
+    "questionId": 77,
+    "question": "Who are the directors of Grave Encounters?",
+    "true_answers": [
+      "Brothers The Vicious",
+      "Colin Minihan",
+      "Ortiz Stuart"
+    ],
+    "predicted_answer": [
+      "stuart ortiz",
+      "carl schultz",
+      "colin minihan;stuart ortiz",
+      "colin minihan;stuart ortiz;the vicious brothers",
+      "the vicious brothers"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "78": {
+    "questionId": 78,
+    "question": "Who are the directors of Grindhouse?",
+    "true_answers": [
+      "Edgar Wright",
+      "Eli Roth",
+      "Quentin Tarantino",
+      "Rob Zombie",
+      "Robert Rodriguez"
+    ],
+    "predicted_answer": [
+      "péter gárdos",
+      "chico ejiro",
+      "quentin tarantino;robert rodriguez",
+      "quentin tarantino; robert rodriguez; et al.",
+      "robin aubert",
+      "joshua grannell",
+      "robert rodriguez;eli roth",
+      "robert rodriguez, quentin tarantino",
+      "eli roth, robert rodriguez, quentin tarantino",
+      "robert rodriguez",
+      "edgar wright;eli roth;quentin tarantino;rob zombie;robert rodriguez",
+      "robert rodriguez;quentin tarantino",
+      "Robert Rodriguez;Eli Roth;Quentin Tarantino;Edgar Wright;Rob Zombie"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "79": {
+    "questionId": 79,
+    "question": "Who are the directors of Heidi?",
+    "true_answers": [
+      "Delbert Mann"
+    ],
+    "predicted_answer": [
+      "delbert mann",
+      "allan dwan",
+      "alain gsponer",
+      "toshiyuki hiruma",
+      "daniel ray",
+      "none",
+      "charles guard;thomas guard",
+      "paul marcus",
+      "kris zimmerman",
+      "werner jacobs",
+      "toshiyuki hiruma takashi"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "80": {
+    "questionId": 80,
+    "question": "Who are the directors of Helicopter Mom?",
+    "true_answers": [
+      "Breziner Salom"
+    ],
+    "predicted_answer": [
+      "salom&eacute; breziner",
+      "salomé breziner"
+    ],
+    "predict": [
+      false,
+      true
+    ]
+  },
+  "81": {
+    "questionId": 81,
+    "question": "Who are the directors of Hello, Late Homecomers?",
+    "true_answers": [
+      "John Woo",
+      "Karl Maka",
+      "Louis Sit"
+    ],
+    "predicted_answer": [
+      "john woo;louis sit;lau tin-chi",
+      "lau tin-chi"
+    ],
+    "predict": [
+      true,
+      false
+    ]
+  },
+  "82": {
+    "questionId": 82,
+    "question": "Who are the directors of Holidays?",
+    "true_answers": [
+      "Adam Egypt Mortimer",
+      "Anthony Burns Scott",
+      "Ellen Reid",
+      "Gary Shore",
+      "Kevin Kolsch",
+      "Kevin S",
+      "Mccarthy Nicholas"
+    ],
+    "predicted_answer": [
+      "adam egypt mortimer;anthony scott burns;dennis widmyer;ellen reid;gary shore;kevin kolsch;kevin smith;matt johnson;nicholas mccarthy;sarah adina smith;scott stewart",
+      "dennis widmyer;kevin kolsch;gary shore;nicholas mccarthy;sarah smith;anthony burns;kevin smith;scott stewart;adam mortimer",
+      "adam egypt mortimer;anthony scott burns;dennis widmyer;ellen reid;gary shore;kevin kolsch;kevin smith;nicholas mccarthy;sarah adina smith;scott stewart",
+      "kevin smith;dennis widmyer;kevin kolsch",
+      "anthony scott burns;nicholas mccarthy",
+      "henri storck",
+      "anthony scott burns;kevin kolsch;nicholas mccarthy;adam egypt mortimer;ellen reid;gary shore;kevin smith;sarah adina smith;scott stewart;dennis widmyer",
+      "anthony scott burns, matt johnson, kevin kolsch, nicholas mccarthy, adam egypt mortimer, gary shore, kevin smith, sarah adina smith, scott stewart, dennis widmyer",
+      "anthony scott burns;kevin kolsch",
+      "marina razbezhkina",
+      "kevin smith; scott stewart; et al.",
+      "kevin smith",
+      "kevin smith, gary shore, matt johnson, scott stewart, anthony scott burns, dennis widmyer, kevin kolsch, sarah adina smith"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "83": {
+    "questionId": 83,
+    "question": "Who are the directors of Humans?",
+    "true_answers": [
+      "Jacques-Olivier Molon",
+      "Pierre-Olivier Thevenin"
+    ],
+    "predicted_answer": [
+      "jacques-olivier molon;pierre-olivier thevenin",
+      "none",
+      "jacques-olivier molon, pierre-olivier thevenin",
+      "jacques-olivier molon",
+      "werner herzog"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "84": {
+    "questionId": 84,
+    "question": "Who are the directors of I Am the Pretty Thing That Lives in the House?",
+    "true_answers": [
+      "Osgood Perkins"
+    ],
+    "predicted_answer": [
+      "osgood perkins",
+      "oz perkins"
+    ],
+    "predict": [
+      true,
+      false
+    ]
+  },
+  "85": {
+    "questionId": 85,
+    "question": "Who are the directors of I, Madman?",
+    "true_answers": [
+      "Tibor Takács"
+    ],
+    "predicted_answer": [
+      "ted bessell",
+      "tibor takács",
+      "muharrem gürses",
+      "burt brinckerhoff"
+    ],
+    "predict": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "86": {
+    "questionId": 86,
+    "question": "Who are the directors of ILL Manors?",
+    "true_answers": [
+      "Ben Drew"
+    ],
+    "predicted_answer": [
+      "ben drew",
+      "mark a. shelton"
+    ],
+    "predict": [
+      true,
+      false
+    ]
+  },
+  "87": {
+    "questionId": 87,
+    "question": "Who are the directors of Inside?",
+    "true_answers": [
+      "Alexandre Bustillo",
+      "Julien Maury"
+    ],
+    "predicted_answer": [
+      "alexandre bustillo",
+      "alexandre bustillo, julien maury",
+      "john dahl",
+      "emiliano rocha minter",
+      "ralph hemecker",
+      "trevor sands",
+      "jeff mahler",
+      "none",
+      "arthur penn",
+      "alexandre bustillo;julien maury",
+      "d.j. caruso",
+      "Miguel Ángel Vivas"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "88": {
+    "questionId": 88,
+    "question": "Who are the directors of Inside Out?",
+    "true_answers": [
+      "Carmen Del Ronnie",
+      "Docter Pete"
+    ],
+    "predicted_answer": [
+      "pete docter, ronnie del carmen",
+      "garlen lo",
+      "wwe studios",
+      "pete docter;ronnie del carmen",
+      "robert taicher",
+      "peter duffell",
+      "rob tregenza",
+      "none",
+      "pete docter;ronaldo del carmen",
+      "artie mandelberg",
+      "shaun robert smith",
+      "pete docter",
+      "david ogden",
+      "alastair siddons",
+      "Jeffrey Reiner;Lizzie Borden;Adam Friedman;Linda Hassani;Alexander Payne;Tony Randel;Richard Shepard"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "89": {
+    "questionId": 89,
+    "question": "Who are the directors of Insomnia?",
+    "true_answers": [
+      "Erik Skjoldbjærg"
+    ],
+    "predicted_answer": [
+      "barthélémy grossmann",
+      "yehdego abeselom",
+      "none",
+      "erik skjoldbjærg",
+      "juanma escobar"
+    ],
+    "predict": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "90": {
+    "questionId": 90,
+    "question": "Who are the directors of Jeanne and the Perfect Guy?",
+    "true_answers": [
+      "Olivier Ducastel",
+      "Jacques Martineau"
+    ],
+    "predicted_answer": [
+      "olivier ducastel;jacques martineau",
+      "olivier ducastel"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "91": {
+    "questionId": 91,
+    "question": "Who are the directors of Jeff Who Lives at Home?",
+    "true_answers": [
+      "Duplass Jay",
+      "Duplass Mark"
+    ],
+    "predicted_answer": [
+      "jay duplass;mark duplass",
+      "jay duplass"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "92": {
+    "questionId": 92,
+    "question": "Who are the directors of John Wick?",
+    "true_answers": [
+      "Chad Stahelski",
+      "David Leitch"
+    ],
+    "predicted_answer": [
+      "chad stahelski, david leitch",
+      "chad stahelski;david leitch",
+      "chad stahelski?",
+      "chad stahelski"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "93": {
+    "questionId": 93,
+    "question": "Who are the directors of Journey of a Red Fridge?",
+    "true_answers": [
+      "Lucian Muntean",
+      "Natasa Muntean"
+    ],
+    "predicted_answer": [
+      "lucian muntean, natasa stankovic",
+      "lucian muntean"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "94": {
+    "questionId": 94,
+    "question": "Who are the directors of Julieum 4 Perum?",
+    "true_answers": [
+      "Satheesh.R.V"
+    ],
+    "predicted_answer": [
+      "r. v. satheesh",
+      "satheesh"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "95": {
+    "questionId": 95,
+    "question": "Who are the directors of Jupiter Ascending?",
+    "true_answers": [
+      "Andy Wachowski",
+      "Lana Wachowski"
+    ],
+    "predicted_answer": [
+      "lana wachowski, lilly wachowski",
+      "andy wachowski;lana wachowski",
+      "andy wachowski, lana wachowski",
+      "lana wachowski;lilly wachowski",
+      "none",
+      "lilly wachowski",
+      "lana wachowski; andy wachowski; et al.",
+      "lana wachowski",
+      "lilly wachowski;lana wachowski"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "96": {
+    "questionId": 96,
+    "question": "Who are the directors of Just Heroes?",
+    "true_answers": [
+      "John Woo",
+      "Wu Ma"
+    ],
+    "predicted_answer": [
+      "john woo",
+      "john woo;wu ma"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "97": {
+    "questionId": 97,
+    "question": "Who are the directors of Kara Simsek?",
+    "true_answers": [
+      "Çetin Inanç"
+    ],
+    "predicted_answer": [
+      "çetin inanç"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "98": {
+    "questionId": 98,
+    "question": "Who are the directors of Kevin Hart: Laugh at My Pain?",
+    "true_answers": [
+      "Leslie Small",
+      "Story Tim"
+    ],
+    "predicted_answer": [
+      "leslie small",
+      "leslie small;tim story",
+      "tim story"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "99": {
+    "questionId": 99,
+    "question": "Who are the directors of King of the Belgians?",
+    "true_answers": [
+      "Peter Brosens",
+      "Jessica Woodworth"
+    ],
+    "predicted_answer": [
+      "peter brosens, jessica woodworth",
+      "peter brosens",
+      "peter brosens;jessica woodworth"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "100": {
+    "questionId": 100,
+    "question": "Who are the directors of Kite Adrift?",
+    "true_answers": [
+      "Diego Ayala",
+      "Anibal Jofré"
+    ],
+    "predicted_answer": [
+      "diego ayala",
+      "diego ayala, anibal jofré"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "101": {
+    "questionId": 101,
+    "question": "Who are the directors of LA 92?",
+    "true_answers": [
+      "Simon Chinn",
+      "Dan Lindsay",
+      "TJ Martin"
+    ],
+    "predicted_answer": [
+      "dan lindsay;t.j. martin",
+      "daniel lindsay;t.j. martin",
+      "daniel lindsay, t.j. martin",
+      "t.j. martin",
+      "david f. chen"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "102": {
+    "questionId": 102,
+    "question": "Who are the directors of La inocente?",
+    "true_answers": [
+      "Rogelio González",
+      "Lorena Velázquez"
+    ],
+    "predicted_answer": [
+      "a.gonzlez rogelio"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "103": {
+    "questionId": 103,
+    "question": "Who are the directors of La Malquerida?",
+    "true_answers": [
+      "Emilio Fernández"
+    ],
+    "predicted_answer": [
+      "emilio fernández"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "104": {
+    "questionId": 104,
+    "question": "Who are the directors of La traque des Nazis?",
+    "true_answers": [
+      "Isabelle Clarke",
+      "Daniel Costelle"
+    ],
+    "predicted_answer": [
+      "isabelle clarke",
+      "isabelle clarke, daniel costelle"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "105": {
+    "questionId": 105,
+    "question": "Who are the directors of Laamb?",
+    "true_answers": [
+      "Kristoffer Hegnsvad",
+      "Peter Alsted"
+    ],
+    "predicted_answer": [
+      "kristoffer hegnsvad;peter alsted",
+      "peter alsted"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "106": {
+    "questionId": 106,
+    "question": "Who are the directors of Lafayette?",
+    "true_answers": [
+      "Jean Dréville"
+    ],
+    "predicted_answer": [
+      "jean dréville",
+      "none"
+    ],
+    "predict": [
+      true,
+      false
+    ]
+  },
+  "107": {
+    "questionId": 107,
+    "question": "Who are the directors of Laredoans Speak: Voices on Immigration?",
+    "true_answers": [
+      "Victor A. Martinez",
+      "Ryan Schafer"
+    ],
+    "predicted_answer": [
+      "victor a. martinez, ryan schafer",
+      "victor a. martinez",
+      "ryan schafer;victor a. martinez"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "108": {
+    "questionId": 108,
+    "question": "Who are the directors of League of Gods?",
+    "true_answers": [
+      "Hui Koan",
+      "Vernie Yeung"
+    ],
+    "predicted_answer": [
+      "simo manfredi",
+      "john krish",
+      "koan hui on",
+      "koan hui;vernie yeung",
+      "koan hui"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "109": {
+    "questionId": 109,
+    "question": "Who are the directors of Leftovers?",
+    "true_answers": [
+      "Seth Hancock",
+      "Seth Hancock",
+      "Shane Bernardo",
+      "Beverly Berry"
+    ],
+    "predicted_answer": [
+      "andrew stevens",
+      "aaron dylan kearns",
+      "joseph franz",
+      "seth hancock",
+      "timothy reckart",
+      "rocky pajarito",
+      "Chris Langham"
+    ],
+    "predict": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "110": {
+    "questionId": 110,
+    "question": "Who are the directors of Look for a Star?",
+    "true_answers": [
+      "Andrew Keung Lau Wai"
+    ],
+    "predicted_answer": [
+      "andrew keung lau wai"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "111": {
+    "questionId": 111,
+    "question": "Who are the directors of Mad Dog Morgan?",
+    "true_answers": [
+      "Philippe Mora"
+    ],
+    "predicted_answer": [
+      "andrew ritter",
+      "frank kramer",
+      "philippe mora",
+      "none"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "112": {
+    "questionId": 112,
+    "question": "Who are the directors of Madame Claude 2?",
+    "true_answers": [
+      "Francois Mimet"
+    ],
+    "predicted_answer": [
+      "francois mimet"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "113": {
+    "questionId": 113,
+    "question": "Who are the directors of Mahogany?",
+    "true_answers": [
+      "Berry Gordy"
+    ],
+    "predicted_answer": [
+      "alan g. kelly",
+      "berry gordy",
+      "berry gordy, tony richardson",
+      "teresa suarez",
+      "berry gordy;tony richardson",
+      "Berry Gordy;Tony Richardson;Jack Wormser"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "114": {
+    "questionId": 114,
+    "question": "Who are the directors of Man in Red Bandana?",
+    "true_answers": [
+      "Matthew J.Weiss"
+    ],
+    "predicted_answer": [
+      "matthew weiss",
+      "matthew j weiss",
+      "matthew j. weiss"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "115": {
+    "questionId": 115,
+    "question": "Who are the directors of Man Underground?",
+    "true_answers": [
+      "Michael Borowiec",
+      "Sam Marine"
+    ],
+    "predicted_answer": [
+      "marcus dunstan",
+      "michael borowiec",
+      "michael borowiec;sam marine"
+    ],
+    "predict": [
+      false,
+      true,
+      true
+    ]
+  },
+  "116": {
+    "questionId": 116,
+    "question": "Who are the directors of March on the River Drina?",
+    "true_answers": [
+      "Žika Mitrovi?"
+    ],
+    "predicted_answer": [
+      "žika mitrovi?"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "117": {
+    "questionId": 117,
+    "question": "Who are the directors of Miss Hokusai?",
+    "true_answers": [
+      "Sheh Stephanie",
+      "Michael Sinterniklaas",
+      "Hara Keiichi"
+    ],
+    "predicted_answer": [
+      "sydney pollack",
+      "keiichi hara;stephanie sheh;michael sinterniklaas",
+      "keiichi hara;michael sinterniklaas;stephanie sheh",
+      "keiichi hara"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "118": {
+    "questionId": 118,
+    "question": "Who are the directors of Mister Roberts?",
+    "true_answers": [
+      "Ford John",
+      "Joshua Logan",
+      "Leroy Mervyn"
+    ],
+    "predicted_answer": [
+      "dinkar d. patil",
+      "john ford, mervyn leroy, joshua logan",
+      "john ford;mervyn leroy;joshua logan",
+      "melvin bernhardt",
+      "john ford",
+      "mickael muraz",
+      "john ford, mervyn leroy"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  "119": {
+    "questionId": 119,
+    "question": "Who are the directors of Moon Over Broadway?",
+    "true_answers": [
+      "Chris Hegedus",
+      "D.A. Pennebaker"
+    ],
+    "predicted_answer": [
+      "d.a. pennebaker;chris hegedus",
+      "chris hegedus, d.a. pennebaker",
+      "d.a. pennebaker"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "120": {
+    "questionId": 120,
+    "question": "Who are the directors of Mr. Brooks?",
+    "true_answers": [
+      "Bruce A. Evans"
+    ],
+    "predicted_answer": [
+      "vincent schuurman",
+      "bruce evans",
+      "bruce a. evans",
+      "bruce a. evans;raynold gideon"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "121": {
+    "questionId": 121,
+    "question": "Who are the directors of Mr. Fraud?",
+    "true_answers": [
+      "B. Unnikrishnan",
+      "Mohanlal",
+      "Dev Gill",
+      "Vijay Babu"
+    ],
+    "predicted_answer": [
+      "b. unnikrishnan",
+      "b unnikrishnan"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "122": {
+    "questionId": 122,
+    "question": "Who are the directors of My Little Pony: Equestria Girls?",
+    "true_answers": [
+      "Benvenuti Noelle",
+      "Jayson Thiessen"
+    ],
+    "predicted_answer": [
+      "jayson thiessen",
+      "naji abu nowar",
+      "jayson thiessen;noelle benvenuti",
+      "none"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  "123": {
+    "questionId": 123,
+    "question": "Who are the directors of Nick and Chai?",
+    "true_answers": [
+      "Cha Escala",
+      "Wena Sanchez"
+    ],
+    "predicted_answer": [
+      "charena escala, wena sanchez",
+      "charena escala"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "124": {
+    "questionId": 124,
+    "question": "Who are the directors of Night Swim?",
+    "true_answers": [
+      "Rod Blackhurst",
+      "Bryce James McGuire"
+    ],
+    "predicted_answer": [
+      "rod blackhurst, bryce mcguire",
+      "rod blackhurst"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "125": {
+    "questionId": 125,
+    "question": "Who are the directors of Northern Lights?",
+    "true_answers": [
+      "John Hanson",
+      "Rob Nilsson"
+    ],
+    "predicted_answer": [
+      "john hanson;rob nilsson",
+      "linda yellen",
+      "john hanson",
+      "john hanson, rob nilsson",
+      "sergey loznitsa",
+      "mike robe"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "126": {
+    "questionId": 126,
+    "question": "Who are the directors of Now They Call Him Sacramento?",
+    "true_answers": [
+      "Alfonso Balcázar"
+    ],
+    "predicted_answer": [
+      "alfonso balcázar"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "127": {
+    "questionId": 127,
+    "question": "Who are the directors of Oh, Hello on Broadway?",
+    "true_answers": [
+      "John Michael Warren"
+    ],
+    "predicted_answer": [
+      "michael john warren",
+      "michael john warren;alex timbers",
+      "sean mullin"
+    ],
+    "predict": [
+      true,
+      true,
+      false
+    ]
+  },
+  "128": {
+    "questionId": 128,
+    "question": "Who are the directors of One Night Surprise?",
+    "true_answers": [
+      "Jin Yiming"
+    ],
+    "predicted_answer": [
+      "yimeng jin",
+      "none"
+    ],
+    "predict": [
+      true,
+      false
+    ]
+  },
+  "129": {
+    "questionId": 129,
+    "question": "Who are the directors of Onnellinen ministeri?",
+    "true_answers": [
+      "Toivo Särkkä"
+    ],
+    "predicted_answer": [
+      "toivo särkkä"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "130": {
+    "questionId": 130,
+    "question": "Who are the directors of Our Hospitality?",
+    "true_answers": [
+      "Buster Keaton",
+      "G.Blystone John"
+    ],
+    "predicted_answer": [
+      "john g. blystone",
+      "john g. blystone, buster keaton",
+      "john g. blystone;buster keaton",
+      "buster keaton;john g. blystone"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "131": {
+    "questionId": 131,
+    "question": "Who are the directors of Out of the Ashes?",
+    "true_answers": [
+      "Tim Albone",
+      "Lucy Martens"
+    ],
+    "predicted_answer": [
+      "tim albone, lucy martens, leslie knott",
+      "tim albone",
+      "joseph sargent",
+      "karl kozak",
+      "Tim Albone;Lucy Martens;Leslie Knott"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  "132": {
+    "questionId": 132,
+    "question": "Who are the directors of Out of the Blue?",
+    "true_answers": [
+      "\\tJames Fox",
+      "Tim Coleman",
+      "Boris Zubov"
+    ],
+    "predicted_answer": [
+      "tim coleman",
+      "leigh jason",
+      "tim coleman, boris zubov, james fox",
+      "none",
+      "yigal bursztyn",
+      "gene gerrard",
+      "robert sarkies",
+      "eva longoria",
+      "dennis hopper",
+      "james fox; tim coleman; boris zubov; et al.",
+      "edoardo leo",
+      "Tim Coleman;James Fox;Boris Zubov"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  "133": {
+    "questionId": 133,
+    "question": "Who are the directors of Outlaw Women?",
+    "true_answers": [
+      "Sam Newfield"
+    ],
+    "predicted_answer": [
+      "sam newfield, ron ormond",
+      "sam newfield",
+      "none",
+      "sam newfield;ron ormond"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "134": {
+    "questionId": 134,
+    "question": "Who are the directors of Peepli Live?",
+    "true_answers": [
+      "Anusha Rizvi",
+      "Farooqui Mahmood"
+    ],
+    "predicted_answer": [
+      "anusha rizvi",
+      "anusha rizvi;mahmood farooqui"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "135": {
+    "questionId": 135,
+    "question": "Who are the directors of Placido?",
+    "true_answers": [
+      "Luis G. Berlanga"
+    ],
+    "predicted_answer": [
+      "luis g. berlanga"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "136": {
+    "questionId": 136,
+    "question": "Who are the directors of Police Academy 2: Their First Assignment?",
+    "true_answers": [
+      "Jerry Paris"
+    ],
+    "predicted_answer": [
+      "jessica kitrick;lewis lovhaug",
+      "jerry paris",
+      "jerry paris;james signorelli",
+      "james signorelli;jerry paris"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "137": {
+    "questionId": 137,
+    "question": "Who are the directors of Port Afrique?",
+    "true_answers": [
+      "Rudolph Maté"
+    ],
+    "predicted_answer": [
+      "rudolph maté"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "138": {
+    "questionId": 138,
+    "question": "Who are the directors of Portrait of a Serial Monogamist?",
+    "true_answers": [
+      "John Mitchell",
+      "Christina Zeidler"
+    ],
+    "predicted_answer": [
+      "john mitchell;christina zeidler",
+      "mini kerti",
+      "christina zeidler",
+      "john mitchell, christina zeidler"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "139": {
+    "questionId": 139,
+    "question": "Who are the directors of Rachmaninoff?",
+    "true_answers": [
+      "Antonio de Santos"
+    ],
+    "predicted_answer": [
+      "antonio de santos",
+      "pavel lungin"
+    ],
+    "predict": [
+      true,
+      false
+    ]
+  },
+  "140": {
+    "questionId": 140,
+    "question": "Who are the directors of Ratatouille?",
+    "true_answers": [
+      "Bird Brad",
+      "Jan Pinkava"
+    ],
+    "predicted_answer": [
+      "jan pinkava",
+      "sherman grinberg",
+      "none",
+      "brad bird;jan pinkava",
+      "brad bird"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "141": {
+    "questionId": 141,
+    "question": "Who are the directors of Scary Movie 5?",
+    "true_answers": [
+      "Malcolm D. Lee",
+      "David Zucker"
+    ],
+    "predicted_answer": [
+      "malcolm lee",
+      "none",
+      "malcolm d. lee",
+      "malcolm d. lee;david zucker",
+      "david zucker;malcolm d. lee"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "142": {
+    "questionId": 142,
+    "question": "Who are the directors of Sci-Fi High: The Movie Musical?",
+    "true_answers": [
+      "Dan Bellusci"
+    ],
+    "predicted_answer": [
+      "dan bellusci",
+      "dan bellusci, steve dispensa",
+      "daniel bellusci; steve dispensa; et al."
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "143": {
+    "questionId": 143,
+    "question": "Who are the directors of Second Origin?",
+    "true_answers": [
+      "Bigas Luna",
+      "Carles Porta"
+    ],
+    "predicted_answer": [
+      "karl huber",
+      "anthony page",
+      "bigas luna",
+      "sergi lara;carles porta"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "144": {
+    "questionId": 144,
+    "question": "Who are the directors of Sisters in Law?",
+    "true_answers": [
+      "Florence Ayisi",
+      "Kim Longinotto"
+    ],
+    "predicted_answer": [
+      "kim longinotto",
+      "florence ayisi, kim longinotto",
+      "andy chin wing keung",
+      "none",
+      "florence ayisi;kim longinotto",
+      "andy chin"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "145": {
+    "questionId": 145,
+    "question": "Who are the directors of Sleepwalk with Me?",
+    "true_answers": [
+      "Mike Birbiglia",
+      "Seth Barrish"
+    ],
+    "predicted_answer": [
+      "mike birbiglia",
+      "mike birbiglia, seth barrish",
+      "mike birbiglia;seth barrish"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "146": {
+    "questionId": 146,
+    "question": "Who are the directors of Snowtime!?",
+    "true_answers": [
+      "Brisson Franois",
+      "Franois Jean Pouliot"
+    ],
+    "predicted_answer": [
+      "françois brisson;jean-françois pouliot",
+      "jean-francois pouliot",
+      "françois brisson",
+      "jean-fran?ois pouliot, fran?ois brisson",
+      "jean-françois pouliot;françois brisson"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "147": {
+    "questionId": 147,
+    "question": "Who are the directors of Speed Racer?",
+    "true_answers": [
+      "Andy Wachowski",
+      "Lana Wachowski"
+    ],
+    "predicted_answer": [
+      "andy wachowski;lana wachowski",
+      "andy wachowski, larry wachowski",
+      "lana wachowski;lilly wachowski",
+      "none",
+      "lilly wachowski",
+      "abhinay deo",
+      "lana wachowski",
+      "dax shepard",
+      "lana wachowski, andy wachowski",
+      "lana wachowski;andy wachowski"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "148": {
+    "questionId": 148,
+    "question": "Who are the directors of Spring Bears Love?",
+    "true_answers": [
+      "Yi Yong"
+    ],
+    "predicted_answer": [
+      "yong-ih",
+      "yi yong"
+    ],
+    "predict": [
+      false,
+      true
+    ]
+  },
+  "149": {
+    "questionId": 149,
+    "question": "Who are the directors of Stage Fright?",
+    "true_answers": [
+      "Jerome Sable"
+    ],
+    "predicted_answer": [
+      "steve box",
+      "alfred hitchcock",
+      "magnolia",
+      "volker schlöndorff",
+      "none",
+      "jordan laney",
+      "jerome sable",
+      "william grefé",
+      "jack lee"
+    ],
+    "predict": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "150": {
+    "questionId": 150,
+    "question": "Who are the directors of Steamboat Willie?",
+    "true_answers": [
+      "Disney Walt",
+      "Iwerks Ub"
+    ],
+    "predicted_answer": [
+      "walt disney",
+      "ub iwerks, walt disney",
+      "ub iwerks;walt disney",
+      "katsuhiro ôtomo"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "151": {
+    "questionId": 151,
+    "question": "Who are the directors of Stuck on You!?",
+    "true_answers": [
+      "Michael Herz",
+      "Lloyd Kaufman"
+    ],
+    "predicted_answer": [
+      "lloyd kaufman;michael herz",
+      "lloyd kaufman",
+      "dean mongan",
+      "lloyd kaufman, michael herz",
+      "michael herz;lloyd kaufman"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "152": {
+    "questionId": 152,
+    "question": "Who are the directors of Take Me Naked?",
+    "true_answers": [
+      "Findlay Michael",
+      "Findlay Roberta"
+    ],
+    "predicted_answer": [
+      "julian marsh",
+      "michael findlay;roberta findlay"
+    ],
+    "predict": [
+      false,
+      true
+    ]
+  },
+  "153": {
+    "questionId": 153,
+    "question": "Who are the directors of Tales of Halloween?",
+    "true_answers": [
+      "Adam Gierasch",
+      "Andrew Kasch",
+      "Axelle Carolyn",
+      "Bousman Darren Lynn",
+      "Lucky Mckee",
+      "Marshall Neil",
+      "Mendez Mike"
+    ],
+    "predicted_answer": [
+      "darren lynn bousman; axelle carolyn; et al.",
+      "darren lynn bousman, axelle carolyn, adam gierasch, andrew kasch, neil marshall, lucky mckee, ryan schifrin, mike mendez, dave parker, john skipp, paul solet",
+      "darren lynn bousman",
+      "darren lynn bousman;axelle carolyn;adam gierasch;andrew kasch;neil marshall;lucky mckee;mike mendez;dave parker;ryan schifrin;john skipp;paul solet",
+      "darren lynn bousman, axelle carolyn, adam gierasch, andrew kasch, neil marshall, lucky mckee, mike mendez, dave parker, ryan schifrin, john skipp, paul solet",
+      "darren lynn bousman;axelle carolyn",
+      "darren bousman;axelle carolyn;adam gierasch;neil marshall;lucky mckee;mike mendez;ryan schifrin;john skipp;andrew kasch;paul solet",
+      "adam gierasch;andrew kasch;axelle carolyn;darren lynn bousman;dave parker;john skipp;lucky mckee;mike mendez;neil marshall;paul solet;ryan schifrin"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "154": {
+    "questionId": 154,
+    "question": "Who are the directors of Taxi for Tobruk?",
+    "true_answers": [
+      "Denys de la Patellière"
+    ],
+    "predicted_answer": [
+      "denys de la patellière",
+      "pak-man leong;wu pang"
+    ],
+    "predict": [
+      true,
+      false
+    ]
+  },
+  "155": {
+    "questionId": 155,
+    "question": "Who are the directors of Team America: World Police?",
+    "true_answers": [
+      "Parker Trey"
+    ],
+    "predicted_answer": [
+      "trey parker;matt stone",
+      "trey parker",
+      "none"
+    ],
+    "predict": [
+      true,
+      true,
+      false
+    ]
+  },
+  "156": {
+    "questionId": 156,
+    "question": "Who are the directors of That's My Boy?",
+    "true_answers": [
+      "Sean Anders"
+    ],
+    "predicted_answer": [
+      "john morris;sean anders",
+      "Akhil Sathyan;\\n </div>\\n </div>\\n <div class=lister-item mode-advanced>\\n <div class=lister-top-right>\\n <div class=ribbonize data-tconst=tt2905364 data-caller=filmosearch",
+      "sean anders, john morris",
+      "hal walker",
+      "sean anders;john morris",
+      "stéphanie anne weber biron",
+      "sean anders"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  "157": {
+    "questionId": 157,
+    "question": "Who are the directors of The Avenging Fist?",
+    "true_answers": [
+      "Andrew Keung Lau Wai",
+      "Corey Yuen"
+    ],
+    "predicted_answer": [
+      "andrew lau wai-keung, corey yuen kwai",
+      "wai-keung lau;corey yuen",
+      "corey yuen;andrew lau wai-keung",
+      "andrew lau"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "158": {
+    "questionId": 158,
+    "question": "Who are the directors of The Big Lebowski?",
+    "true_answers": [
+      "Coen Ethan",
+      "Coen Joel"
+    ],
+    "predicted_answer": [
+      "ethan coen;joel coen",
+      "joel coen;ethan coen",
+      "joel coen"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "159": {
+    "questionId": 159,
+    "question": "Who are the directors of The Bloody Exorcism of Coffin Joe?",
+    "true_answers": [
+      "Jose Mojica Marins"
+    ],
+    "predicted_answer": [
+      "jose mojica marins"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "160": {
+    "questionId": 160,
+    "question": "Who are the directors of The Byrd Who Flew Alone: The Triumphs and Tragedy of Gene Clark?",
+    "true_answers": [
+      "Jack Kendall",
+      "Paul Kendall"
+    ],
+    "predicted_answer": [
+      "jack kendall;paul kendall",
+      "jack kendall, paul kendall",
+      "jack kendall"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "161": {
+    "questionId": 161,
+    "question": "Who are the directors of The Cameraman?",
+    "true_answers": [
+      "Buster Keaton",
+      "Edward Sedgwick"
+    ],
+    "predicted_answer": [
+      "buster keaton",
+      "buster keaton;edward sedgwick",
+      "anna masefield",
+      "edward sedgwick, buster keaton",
+      "richard franklin",
+      "edward sedgwick;buster keaton",
+      "edward sedgwick"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "162": {
+    "questionId": 162,
+    "question": "Who are the directors of The Coca-Cola Case?",
+    "true_answers": [
+      "Carmen Garcia",
+      "German Gutierrez"
+    ],
+    "predicted_answer": [
+      "carmen garcia",
+      "none",
+      "carmen garcia, german gutierrez"
+    ],
+    "predict": [
+      true,
+      false,
+      true
+    ]
+  },
+  "163": {
+    "questionId": 163,
+    "question": "Who are the directors of The Demon Deep in Oklahoma?",
+    "true_answers": [
+      "Lance R. Marshall"
+    ],
+    "predicted_answer": [
+      "lance marshall",
+      "lance r. marshall"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "164": {
+    "questionId": 164,
+    "question": "Who are the directors of The Dudesons Movie?",
+    "true_answers": [
+      "Jarno Laasala",
+      "Tuukka Tiensuu"
+    ],
+    "predicted_answer": [
+      "jarno laasala;tuukka tiensuu",
+      "jarno laasala",
+      "none"
+    ],
+    "predict": [
+      true,
+      true,
+      false
+    ]
+  },
+  "165": {
+    "questionId": 165,
+    "question": "Who are the directors of The Fast and the Furious?",
+    "true_answers": [
+      "Rob Cohen",
+      "John Singleton",
+      "Justin Lin",
+      "James Wan",
+      "F. Gary Gray"
+    ],
+    "predicted_answer": [
+      "aleksandr voytinskiy",
+      "rob cohen;mel city",
+      "rob cohen",
+      "john ireland",
+      "john ireland;edward sampson",
+      "mariusz malinowski",
+      "john ireland, edward sampson"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "166": {
+    "questionId": 166,
+    "question": "Who are the directors of The Girl in the Red Velvet Swing?",
+    "true_answers": [
+      "Richard Fleischer"
+    ],
+    "predicted_answer": [
+      "20th_century_fox",
+      "richard fleischer",
+      "none",
+      "fede alvarez"
+    ],
+    "predict": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "167": {
+    "questionId": 167,
+    "question": "Who are the directors of The High Sign?",
+    "true_answers": [
+      "Buster Keaton",
+      "Edward F.Cline"
+    ],
+    "predicted_answer": [
+      "buster keaton",
+      "edward f. cline"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "168": {
+    "questionId": 168,
+    "question": "Who are the directors of The Kid With a Bike?",
+    "true_answers": [
+      "Jean-Pierre Dardenne",
+      "Luc Dardenne"
+    ],
+    "predicted_answer": [
+      "jean-pierre dardenne, luc dardenne",
+      "jean-pierre dardenne",
+      "jean-pierre dardenne;luc dardenne"
+    ],
+    "predict": [
+      true,
+      true,
+      true
+    ]
+  },
+  "169": {
+    "questionId": 169,
+    "question": "Who are the directors of The Lark Farm?",
+    "true_answers": [
+      "Paolo Taviani",
+      "Vittorio Taviani"
+    ],
+    "predicted_answer": [
+      "esme rose-shelton",
+      "paolo taviani",
+      "paolo taviani, vittorio taviani",
+      "Paolo Taviani;Vittorio Taviani"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "170": {
+    "questionId": 170,
+    "question": "Who are the directors of the last broadcast?",
+    "true_answers": [
+      "Lance Weiler",
+      "Stefan Avalos"
+    ],
+    "predicted_answer": [
+      "patrice chéreau",
+      "stefan avalos, lance weiler",
+      "george erschbamer",
+      "stefan avalos",
+      "stefan avalos;lance weiler"
+    ],
+    "predict": [
+      false,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  "171": {
+    "questionId": 171,
+    "question": "Who are the directors of The Last Circus?",
+    "true_answers": [
+      "Álex de la Iglesia"
+    ],
+    "predicted_answer": [
+      "álex de la iglesia",
+      "john cox;dawna lee heising",
+      "alex de la iglesia"
+    ],
+    "predict": [
+      true,
+      false,
+      true
+    ]
+  },
+  "172": {
+    "questionId": 172,
+    "question": "Who are the directors of The Last Days of Pompeii?",
+    "true_answers": [
+      "Mario Bonnard"
+    ],
+    "predicted_answer": [
+      "sergio leone;mario bonnard",
+      "sergio leone, mario bonnard",
+      "mario caserini",
+      "mario bonnard",
+      "none",
+      "bénédicte delmas"
+    ],
+    "predict": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "173": {
+    "questionId": 173,
+    "question": "Who are the directors of The LEGO Ninjago Movie?",
+    "true_answers": [
+      "Charlie Bean",
+      "Paul Fisher",
+      "Bob Logan"
+    ],
+    "predicted_answer": [
+      "jon s. baird",
+      "none",
+      "charlie bean",
+      "bob logan;charlie bean;paul fisher",
+      "charlie bean, paul fisher, bob logan",
+      "charlie bean;paul fisher;bob logan"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "174": {
+    "questionId": 174,
+    "question": "Who are the directors of The Locksmith?",
+    "true_answers": [
+      "Brad Barnes",
+      "Todd Barnes"
+    ],
+    "predicted_answer": [
+      "alan dossor",
+      "brad barnes",
+      "brad barnes, todd barnes"
+    ],
+    "predict": [
+      false,
+      true,
+      true
+    ]
+  },
+  "175": {
+    "questionId": 175,
+    "question": "Who are the directors of The Longest Day?",
+    "true_answers": [
+      "Andrew Marton",
+      "Annakin Ken",
+      "Bernhard Wicki",
+      "Darryl F.Zanuck",
+      "Gerd Oswald"
+    ],
+    "predicted_answer": [
+      "ken annakin;andrew marton",
+      "ken annakin;andrew marton;bernhard wicki;gerd oswald;darryl f. zanuck",
+      "bernhard wicki;ken annakin;andrew marton",
+      "bernhard wicki",
+      "victor alonso berbel",
+      "none",
+      "ken annakin",
+      "ken annakin, andrew marton",
+      "andrew marton;bernhard wicki;darryl f. zanuck;gerd oswald;ken annakin",
+      "ken annakin, andrew marton, bernhard wicki"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "176": {
+    "questionId": 176,
+    "question": "Who are the directors of The Magnet?",
+    "true_answers": [
+      "Akhenaton",
+      "Kamel Saleh"
+    ],
+    "predicted_answer": [
+      "charles frend",
+      "akhenaton, kamel saleh",
+      "akhenaton"
+    ],
+    "predict": [
+      false,
+      true,
+      true
+    ]
+  },
+  "177": {
+    "questionId": 177,
+    "question": "Who are the directors of The Man Who Could Work Miracles?",
+    "true_answers": [
+      "Lothar Mendes",
+      "Korda Zoltan"
+    ],
+    "predicted_answer": [
+      "zoltan korda",
+      "lothar mendes"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "178": {
+    "questionId": 178,
+    "question": "Who are the directors of The Many Adventures of Winnie the Pooh?",
+    "true_answers": [
+      "John Lounsbery",
+      "Reitherman Wolfgang"
+    ],
+    "predicted_answer": [
+      "john lounsbery;wolfgang reitherman",
+      "ömer vargi",
+      "wolfgang reitherman;john lounsbery",
+      "john lounsbery",
+      "john lounsbery, wolfgang reitherman"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "179": {
+    "questionId": 179,
+    "question": "Who are the directors of The Mutilator?",
+    "true_answers": [
+      "Buddy Cooper",
+      "John Douglass"
+    ],
+    "predicted_answer": [
+      "buddy cooper",
+      "buddy cooper;john douglass",
+      "pip chodorov"
+    ],
+    "predict": [
+      true,
+      true,
+      false
+    ]
+  },
+  "180": {
+    "questionId": 180,
+    "question": "Who are the directors of The Orphanage?",
+    "true_answers": [
+      "Antonio Bayona Juan"
+    ],
+    "predicted_answer": [
+      "ernest r. dickerson",
+      "juan antonio bayona",
+      "abholghassem talebi",
+      "juan bayona",
+      "mark pellington",
+      "j.a. bayona",
+      "Mark Pellington;\\n </div>\\n </div>\\n <div class=lister-item mode-advanced>\\n <div class=lister-top-right>\\n <div class=ribbonize data-tconst=tt0415679 data-caller=filmosearc"
+    ],
+    "predict": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  "181": {
+    "questionId": 181,
+    "question": "Who are the directors of The Perfect Weapon?",
+    "true_answers": [
+      "Paar Titus"
+    ],
+    "predicted_answer": [
+      "paar titus",
+      "unavailable",
+      "melo viana",
+      "mark disalle"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "182": {
+    "questionId": 182,
+    "question": "Who are the directors of The Road to El Dorado?",
+    "true_answers": [
+      "Eric Bibo Bergeron",
+      "Don Paul"
+    ],
+    "predicted_answer": [
+      "don michael paul",
+      "bibo bergeron;will finn;jeffrey katzenberg;don paul;david silverman",
+      "don michael paul, bibo bergeron",
+      "bibo bergeron;don paul",
+      "bibo bergeron, will finn",
+      "bibo bergeron;david silverman;don paul;jeffrey katzenberg;will finn",
+      "nick hamm",
+      "bibo bergeron;don paul;jeffrey katzenberg"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  "183": {
+    "questionId": 183,
+    "question": "Who are the directors of The Scarlet Horseman?",
+    "true_answers": [
+      "Lewis D. Collins",
+      "Ray Taylor"
+    ],
+    "predicted_answer": [
+      "christopher menaul",
+      "lewis d. collins",
+      "Lewis D. Collins;Ray Taylor"
+    ],
+    "predict": [
+      false,
+      true,
+      true
+    ]
+  },
+  "184": {
+    "questionId": 184,
+    "question": "Who are the directors of The Second Woman?",
+    "true_answers": [
+      "Miu-Suet Lai"
+    ],
+    "predicted_answer": [
+      "lai miu suet",
+      "rob letterman;\\n        </div>\\n    </div>\\n    <div class=\"lister-item mode-advanced\">\\n        <div class=\"lister-top-right\">\\n    <div class=\"ribbonize\" data-tconst=\"tt0173664\" data-caller=\"filmosearch\""
+    ],
+    "predict": [
+      true,
+      false
+    ]
+  },
+  "185": {
+    "questionId": 185,
+    "question": "Who are the directors of The Secret Lives of Dorks?",
+    "true_answers": [
+      "Salomé Breziner"
+    ],
+    "predicted_answer": [
+      "salomé breziner"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "186": {
+    "questionId": 186,
+    "question": "Who are the directors of The SpongeBob Squarepants Movie?",
+    "true_answers": [
+      "Hillenburg Stephen",
+      "Mark Osborne"
+    ],
+    "predicted_answer": [
+      "stephen hillenburg;mark osborne",
+      "none",
+      "stephen hillenburg"
+    ],
+    "predict": [
+      true,
+      false,
+      true
+    ]
+  },
+  "187": {
+    "questionId": 187,
+    "question": "Who are the directors of The Station Agent?",
+    "true_answers": [
+      "Mccarthy Thomas"
+    ],
+    "predicted_answer": [
+      "ayan mukherjee",
+      "thomas mccarthy",
+      "nathan hill",
+      "tom mccarthy"
+    ],
+    "predict": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "188": {
+    "questionId": 188,
+    "question": "Who are the directors of The Strange Woman?",
+    "true_answers": [
+      "Edgar Ulmer"
+    ],
+    "predicted_answer": [
+      "edgar g. ulmer",
+      "danny boyle",
+      "edgar g. ulmer;douglas sirk"
+    ],
+    "predict": [
+      true,
+      false,
+      true
+    ]
+  },
+  "189": {
+    "questionId": 189,
+    "question": "Who are the directors of The Summer of Sangaile?",
+    "true_answers": [
+      "Alante Kavaite"
+    ],
+    "predicted_answer": [
+      "alante kavaite"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "190": {
+    "questionId": 190,
+    "question": "Who are the directors of The Treasure of the Amazon?",
+    "true_answers": [
+      "René Cardona Jr."
+    ],
+    "predicted_answer": [
+      "rené cardona jr."
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "191": {
+    "questionId": 191,
+    "question": "Who are the directors of The Two-Headed Spy?",
+    "true_answers": [
+      "André De Toth"
+    ],
+    "predicted_answer": [
+      "andré de toth"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "192": {
+    "questionId": 192,
+    "question": "Who are the directors of The White Dove?",
+    "true_answers": [
+      "Frantisek Vlácil"
+    ],
+    "predicted_answer": [
+      "frantisek vlácil"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "193": {
+    "questionId": 193,
+    "question": "Who are the directors of The Wizard of Oz?",
+    "true_answers": [
+      "Cukor George",
+      "Fleming Victor",
+      "King Vidor",
+      "Leroy Mervyn",
+      "Norman Taurog"
+    ],
+    "predicted_answer": [
+      "leslie greif",
+      "victor fleming",
+      "victor fleming, george cukor, mervyn leroy, king vidor",
+      "fumihiko takayama;john danylkiw",
+      "larry semon",
+      "victor fleming;george cukor;mervyn leroy;norman taurog;king vidor",
+      "george cukor;king vidor;mervyn leroy;norman taurog;victor fleming",
+      "victor fleming;mervyn leroy",
+      "victor fleming;george cukor",
+      "fumihiko takayama, john danylkiw",
+      "ted eshbaugh"
+    ],
+    "predict": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "194": {
+    "questionId": 194,
+    "question": "Who are the directors of The Yes Men Fix the World?",
+    "true_answers": [
+      "Andy Bichlbaum",
+      "Mike Bonanno",
+      "Engfehr Kurt"
+    ],
+    "predicted_answer": [
+      "andy bichlbaum",
+      "andy bichlbaum;mike bonanno",
+      "andy bichlbaum;mike bonanno;kurt engfehr",
+      "andy bichlbaum, mike bonanno, kurt engfehr",
+      "andy bichlbaum;kurt engfehr;mike bonanno"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "195": {
+    "questionId": 195,
+    "question": "Who are the directors of Them?",
+    "true_answers": [
+      "David Moreau",
+      "Xavier Palud"
+    ],
+    "predicted_answer": [
+      "david moreau, xavier palud",
+      "jonathan mostow",
+      "atsuji shimizu",
+      "david moreau",
+      "david moreau;xavier palud",
+      "ryan polito"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "196": {
+    "questionId": 196,
+    "question": "Who are the directors of This Is Orson Welles?",
+    "true_answers": [
+      "Clara Kuperberg",
+      "Julia Kuperberg"
+    ],
+    "predicted_answer": [
+      "clara kuperberg",
+      "clara kuperberg, julia kuperberg"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "197": {
+    "questionId": 197,
+    "question": "Who are the directors of Thor the Conqueror?",
+    "true_answers": [
+      "Ricci Tonino"
+    ],
+    "predicted_answer": [
+      "jeff murray",
+      "tonino ricci",
+      "tonini ricci as anthony richmond"
+    ],
+    "predict": [
+      false,
+      true,
+      true
+    ]
+  },
+  "198": {
+    "questionId": 198,
+    "question": "Who are the directors of Three Lives?",
+    "true_answers": [
+      "Kate Millett"
+    ],
+    "predicted_answer": [
+      "kate millett",
+      "ivane perestiani",
+      "louva irvine;susan kleckner",
+      "kate millett;louva irvine;susan kleckner"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  "199": {
+    "questionId": 199,
+    "question": "Who are the directors of Top Cat Begins?",
+    "true_answers": [
+      "Andrés Couturier"
+    ],
+    "predicted_answer": [
+      "jay martin",
+      "andr&eacute;s couturier",
+      "andrés couturier"
+    ],
+    "predict": [
+      false,
+      false,
+      true
+    ]
+  },
+  "200": {
+    "questionId": 200,
+    "question": "Who are the directors of Unborn in the USA: Inside the War on Abortion?",
+    "true_answers": [
+      "Stephen Fell",
+      "Will Thompson"
+    ],
+    "predicted_answer": [
+      "stephen fell, will thompson",
+      "stephen fell"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "201": {
+    "questionId": 201,
+    "question": "Who are the directors of Undead?",
+    "true_answers": [
+      "Michael Spierig",
+      "Peter Spierig"
+    ],
+    "predicted_answer": [
+      "michael spierig; peter spierig; et al.",
+      "michael spierig",
+      "michael spierig, peter spierig",
+      "michael spierig;peter spierig",
+      "none",
+      "ken ghosh",
+      "bob walsh"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "202": {
+    "questionId": 202,
+    "question": "Who are the directors of Uniformes et grandes manœuvres?",
+    "true_answers": [
+      "René Le Hénaff"
+    ],
+    "predicted_answer": [
+      "rené le hénaff"
+    ],
+    "predict": [
+      true
+    ]
+  },
+  "203": {
+    "questionId": 203,
+    "question": "Who are the directors of VHS?",
+    "true_answers": [
+      "Adam Wingard",
+      "David Bruckner",
+      "Glenn McQuaid",
+      "Joe Swanberg",
+      "Ti West",
+      "Radio Silence"
+    ],
+    "predicted_answer": [
+      "adam wingard;david bruckner",
+      "ross mcelwee",
+      "david bruckner;glenn mcquaid;joe swanberg;ti west;adam wingard",
+      "Scott Bekisz"
+    ],
+    "predict": [
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  "204": {
+    "questionId": 204,
+    "question": "Who are the directors of VHS: Viral?",
+    "true_answers": [
+      "Aaron Moorhead",
+      "Benson Justin",
+      "Bishop Gregg",
+      "Lincoln Todd",
+      "Marcel Sarmiento",
+      "Nacho Vigalondo"
+    ],
+    "predicted_answer": [
+      "justin benson",
+      "justin benson;gregg bishop;todd lincoln;aaron moorhead;marcel sarmiento;nacho vigalondo"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "205": {
+    "questionId": 205,
+    "question": "Who are the directors of Walking the Camino: Six Ways to Santiago?",
+    "true_answers": [
+      "Lydia B.Smith"
+    ],
+    "predicted_answer": [
+      "will graham",
+      "raushan hammond",
+      "lydia b. smith",
+      "lydia smith"
+    ],
+    "predict": [
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "206": {
+    "questionId": 206,
+    "question": "Who are the directors of Wild Life?",
+    "true_answers": [
+      "Amanda Forbis",
+      "Wendy Tilby"
+    ],
+    "predicted_answer": [
+      "amanda forbis;wendy tilby",
+      "none",
+      "unavailable",
+      "amanda forbis",
+      "shinji aoyama",
+      "cédric kahn",
+      "amanda forbis, wendy tilby"
+    ],
+    "predict": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  "207": {
+    "questionId": 207,
+    "question": "Who are the directors of X: The Unknown?",
+    "true_answers": [
+      "Joseph Losey",
+      "Leslie Norman"
+    ],
+    "predicted_answer": [
+      "joseph losey, leslie norman",
+      "leslie norman"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "208": {
+    "questionId": 208,
+    "question": "Who are the directors of Yessongs?",
+    "true_answers": [
+      "Peter Neal"
+    ],
+    "predicted_answer": [
+      "peter neale",
+      "peter neal"
+    ],
+    "predict": [
+      true,
+      true
+    ]
+  },
+  "209": {
+    "questionId": 209,
+    "question": "Who are the directors of [REC]?",
+    "true_answers": [
+      "Balaguer Jaume",
+      "Paco Plaza"
+    ],
+    "predicted_answer": [
+      "jaume balagueró",
+      "jaume balagueró, paco plaza",
+      "jaume balagueró;paco plaza",
+      "xavier giacometti"
+    ],
+    "predict": [
+      true,
+      true,
+      true,
+      false
+    ]
+  }
+}
